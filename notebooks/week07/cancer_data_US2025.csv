@@ -1,0 +1,2798 @@
+state,county,age_adjusted_rate_per_100_000,state_abbrv
+Florida,Union,1248.4,FL
+Minnesota,Traverse,693.5,MN
+Texas,Polk,679.5,TX
+Nebraska,Greeley,653.1,NE
+South Dakota,Dewey,634.5,SD
+Mississippi,Quitman,626.5,MS
+Montana,Wheatland,626.0,MT
+South Dakota,Faulk,625.3,SD
+Texas,Stonewall,621.1,TX
+Nebraska,Logan,609.3,NE
+Kentucky,Lincoln,608.6,KY
+Kentucky,Floyd,606.6,KY
+Georgia,Chattahoochee,605.6,GA
+Kentucky,Bracken,605.3,KY
+Montana,Rosebud,602.9,MT
+Kentucky,Knox,595.8,KY
+Nebraska,Hitchcock,593.2,NE
+South Dakota,Aurora,592.3,SD
+Kentucky,Owsley,592.1,KY
+Kentucky,Powell,592.1,KY
+Illinois,Menard,591.0,IL
+Tennessee,Trousdale,588.7,TN
+Kentucky,Livingston,588.6,KY
+Kentucky,Estill,586.6,KY
+Texas,Hudspeth,585.8,TX
+Arkansas,Lawrence,585.0,AR
+Kentucky,Bath,583.7,KY
+Kentucky,Adair,583.1,KY
+Minnesota,Lincoln,582.3,MN
+North Dakota,Rolette,580.9,ND
+Iowa,Palo Alto,580.0,IA
+Kentucky,Cumberland,579.6,KY
+South Dakota,McCook,578.8,SD
+West Virginia,Pleasants,577.4,WV
+West Virginia,Logan,576.7,WV
+Kentucky,Grant,575.8,KY
+Kentucky,Wolfe,574.5,KY
+Georgia,Pickens,572.1,GA
+Montana,Golden Valley,571.9,MT
+Kentucky,Whitley,569.5,KY
+Texas,Camp,568.8,TX
+Iowa,Cass,568.8,IA
+Minnesota,Mahnomen,568.0,MN
+Illinois,Shelby,567.9,IL
+Kentucky,Grayson,567.0,KY
+Ohio,Lawrence,566.0,OH
+Virginia,Essex,565.6,VA
+Illinois,Marion,565.2,IL
+Kentucky,Clinton,565.1,KY
+Maine,Piscataquis,564.2,ME
+Illinois,Alexander,564.2,IL
+Kentucky,Butler,563.2,KY
+Montana,Prairie,563.0,MT
+Missouri,Ripley,561.3,MO
+Virginia,Mathews,560.8,VA
+Illinois,Morgan,560.2,IL
+Arkansas,Poinsett,559.5,AR
+Alabama,Crenshaw,558.5,AL
+West Virginia,Lewis,558.0,WV
+Illinois,Pike,557.7,IL
+South Dakota,Jackson,556.9,SD
+Illinois,DeKalb,556.8,IL
+Nebraska,Blaine,556.6,NE
+Kentucky,Carter,555.8,KY
+Kentucky,Harrison,555.1,KY
+North Carolina,Anson,554.9,NC
+Iowa,Cherokee,554.9,IA
+Illinois,Scott,554.9,IL
+Illinois,Clay,554.3,IL
+Illinois,Macon,553.7,IL
+Ohio,Pike,553.3,OH
+Florida,Hernando,553.1,FL
+West Virginia,Lincoln,553.0,WV
+Maine,Washington,552.8,ME
+Kentucky,Taylor,552.7,KY
+Minnesota,Red Lake,552.4,MN
+Kentucky,Lawrence,552.4,KY
+Kentucky,Monroe,551.7,KY
+Iowa,Appanoose,551.7,IA
+West Virginia,Clay,551.1,WV
+Kentucky,Henry,551.1,KY
+Kentucky,Pike,550.7,KY
+South Dakota,Kingsbury,550.1,SD
+Kentucky,Spencer,550.0,KY
+Illinois,Mason,549.5,IL
+Georgia,Twiggs,549.2,GA
+New York,Niagara,549.0,NY
+Kentucky,McLean,548.5,KY
+Kentucky,Fleming,548.5,KY
+Alabama,Lowndes,548.3,AL
+Pennsylvania,Montour,548.0,PA
+Kentucky,Clay,547.7,KY
+Kentucky,Rockcastle,547.5,KY
+New York,Orleans,547.5,NY
+New Jersey,Cape May,547.2,NJ
+Mississippi,Tishomingo,547.2,MS
+Illinois,Pulaski,546.9,IL
+Minnesota,Norman,546.5,MN
+Missouri,Oregon,546.3,MO
+Iowa,Harrison,546.2,IA
+South Dakota,Buffalo,546.1,SD
+New York,Oswego,545.7,NY
+Illinois,Sangamon,545.7,IL
+Texas,Edwards,545.6,TX
+Kentucky,Carlisle,545.2,KY
+Kentucky,Mercer,545.0,KY
+Kentucky,Green,544.7,KY
+Illinois,Greene,544.6,IL
+Illinois,Macoupin,544.4,IL
+Ohio,Washington,544.3,OH
+Minnesota,Wilkin,544.2,MN
+Kentucky,Montgomery,543.9,KY
+Kentucky,Owen,543.9,KY
+Arkansas,Drew,543.8,AR
+Mississippi,Coahoma,543.8,MS
+Illinois,Christian,543.5,IL
+Nebraska,Garfield,542.7,NE
+Vermont,Grand Isle,542.6,VT
+Texas,Delta,542.5,TX
+Georgia,Pike,542.0,GA
+Florida,Nassau,541.8,FL
+Illinois,Grundy,541.8,IL
+Texas,Armstrong,541.7,TX
+Mississippi,Humphreys,541.6,MS
+Kentucky,Breckinridge,541.5,KY
+Georgia,Elbert,541.3,GA
+South Dakota,Sanborn,541.3,SD
+Virginia,Nottoway,541.2,VA
+Virginia,Amelia,541.1,VA
+New York,Cortland,541.0,NY
+Iowa,Monroe,540.9,IA
+Illinois,Logan,540.8,IL
+Minnesota,Clay,540.1,MN
+Mississippi,Covington,539.7,MS
+Iowa,Howard,539.3,IA
+Arkansas,Woodruff,539.3,AR
+Georgia,White,538.7,GA
+South Dakota,Clay,538.2,SD
+Kentucky,Hardin,538.2,KY
+Kentucky,Perry,538.1,KY
+Montana,Musselshell,538.0,MT
+Montana,Jefferson,537.7,MT
+Kentucky,Boyd,537.6,KY
+Kentucky,Hart,537.5,KY
+Virginia,Lancaster,537.4,VA
+North Carolina,McDowell,537.2,NC
+Missouri,Montgomery,537.0,MO
+Georgia,Jasper,536.9,GA
+Texas,Martin,536.7,TX
+North Carolina,Onslow,536.5,NC
+Illinois,Vermilion,536.1,IL
+Tennessee,Marshall,535.6,TN
+Maryland,Allegany,535.4,MD
+Kentucky,Marion,535.4,KY
+Kentucky,Oldham,535.1,KY
+Kentucky,Russell,535.1,KY
+New York,Jefferson,534.9,NY
+Oklahoma,Pawnee,534.7,OK
+Wisconsin,Menominee,534.6,WI
+Georgia,Lumpkin,534.6,GA
+West Virginia,Wetzel,534.6,WV
+New York,Schuyler,534.6,NY
+Kentucky,Wayne,534.5,KY
+North Carolina,Swain,534.3,NC
+Arkansas,Randolph,534.2,AR
+Georgia,Habersham,534.1,GA
+Georgia,Effingham,534.1,GA
+Kentucky,Bullitt,534.0,KY
+Georgia,Terrell,533.9,GA
+Missouri,Mississippi,533.7,MO
+South Dakota,Minnehaha,533.7,SD
+Pennsylvania,Schuylkill,533.4,PA
+Iowa,Decatur,533.4,IA
+West Virginia,Wayne,533.2,WV
+Nebraska,Franklin,532.9,NE
+Kentucky,Trimble,532.9,KY
+Kentucky,Pendleton,532.7,KY
+Illinois,Mercer,532.6,IL
+West Virginia,Harrison,532.4,WV
+Georgia,Oglethorpe,532.3,GA
+Nebraska,Boone,532.1,NE
+Kentucky,Gallatin,532.0,KY
+Kentucky,Nelson,531.5,KY
+Iowa,Clinton,531.5,IA
+Kentucky,Barren,531.5,KY
+Kentucky,Harlan,531.4,KY
+Illinois,Franklin,531.2,IL
+Georgia,Lee,531.1,GA
+Minnesota,Hubbard,531.1,MN
+Florida,Flagler,531.0,FL
+Arkansas,Jefferson,531.0,AR
+Iowa,Tama,530.8,IA
+Minnesota,Grant,530.6,MN
+New Jersey,Gloucester,530.6,NJ
+Georgia,Sumter,530.5,GA
+Missouri,Marion,530.0,MO
+Georgia,Jones,530.0,GA
+Texas,Baylor,529.8,TX
+Tennessee,Humphreys,529.8,TN
+Texas,Walker,529.7,TX
+Kentucky,Calloway,529.4,KY
+Wisconsin,Langlade,529.2,WI
+Missouri,Iron,529.1,MO
+Iowa,Madison,528.9,IA
+Kentucky,Bourbon,528.9,KY
+Minnesota,Chippewa,528.2,MN
+Kentucky,Pulaski,527.8,KY
+West Virginia,Mason,527.7,WV
+Kentucky,Metcalfe,527.6,KY
+North Dakota,McLean,527.4,ND
+Maine,Penobscot,527.4,ME
+Georgia,Warren,527.2,GA
+South Dakota,Jerauld,527.2,SD
+Texas,Morris,527.1,TX
+South Dakota,Haakon,526.9,SD
+Colorado,Jackson,526.8,CO
+Arkansas,Clay,526.8,AR
+Florida,Citrus,526.6,FL
+Texas,Jasper,526.6,TX
+Iowa,Montgomery,526.5,IA
+West Virginia,Mingo,526.4,WV
+North Dakota,Mercer,526.4,ND
+Colorado,Cheyenne,525.9,CO
+Iowa,Franklin,525.7,IA
+Georgia,Barrow,525.7,GA
+Nebraska,Thurston,525.7,NE
+Nebraska,Thayer,525.7,NE
+Virginia,Sussex,525.4,VA
+Florida,Marion,525.1,FL
+Kentucky,Logan,525.1,KY
+New York,Montgomery,525.0,NY
+Illinois,Jasper,524.7,IL
+Georgia,Lanier,524.6,GA
+Illinois,Fulton,524.6,IL
+Missouri,Madison,524.5,MO
+New York,Fulton,524.4,NY
+New Jersey,Ocean,524.3,NJ
+Iowa,Clay,523.8,IA
+Georgia,McDuffie,523.7,GA
+Missouri,St. Francois,523.5,MO
+Minnesota,Becker,523.4,MN
+Kentucky,McCreary,523.3,KY
+New York,Wyoming,523.2,NY
+Texas,McCulloch,522.8,TX
+West Virginia,Roane,522.8,WV
+Oklahoma,Johnston,522.7,OK
+Mississippi,Holmes,522.6,MS
+Ohio,Gallia,522.5,OH
+West Virginia,Boone,522.3,WV
+North Carolina,Jones,522.3,NC
+North Carolina,Wayne,522.2,NC
+Kentucky,McCracken,522.2,KY
+Iowa,Wapello,522.2,IA
+Illinois,Washington,522.2,IL
+Kentucky,Kenton,522.0,KY
+Ohio,Ross,521.9,OH
+Arkansas,Desha,521.7,AR
+Texas,Foard,521.5,TX
+Ohio,Adams,521.2,OH
+Maine,Hancock,520.9,ME
+Kentucky,Magoffin,520.5,KY
+Tennessee,Dickson,520.4,TN
+Iowa,Monona,520.4,IA
+Iowa,Chickasaw,520.4,IA
+Oklahoma,Okmulgee,520.3,OK
+New Jersey,Monmouth,520.0,NJ
+North Carolina,Stanly,519.7,NC
+Kentucky,Martin,519.6,KY
+Oklahoma,Mayes,519.6,OK
+Iowa,Woodbury,519.5,IA
+Florida,Indian River,519.3,FL
+North Carolina,Granville,519.0,NC
+Georgia,Stephens,519.0,GA
+Oklahoma,Sequoyah,518.9,OK
+Mississippi,Chickasaw,518.8,MS
+Missouri,Crawford,518.6,MO
+Oklahoma,Latimer,518.5,OK
+North Carolina,Richmond,518.5,NC
+Iowa,Keokuk,518.5,IA
+New York,Ontario,518.5,NY
+Georgia,Wayne,518.3,GA
+South Dakota,Jones,518.3,SD
+Kentucky,Clark,518.3,KY
+New York,Warren,518.3,NY
+Kentucky,Marshall,518.1,KY
+Nebraska,Clay,518.1,NE
+West Virginia,Randolph,518.0,WV
+Georgia,Lamar,518.0,GA
+Minnesota,Renville,517.7,MN
+Illinois,Adams,517.6,IL
+Minnesota,Pipestone,517.1,MN
+New York,Seneca,517.0,NY
+Mississippi,Grenada,516.9,MS
+Arkansas,Sharp,516.9,AR
+New York,Erie,516.8,NY
+Iowa,Black Hawk,516.6,IA
+Georgia,Butts,516.5,GA
+Arkansas,Mississippi,516.5,AR
+West Virginia,Taylor,516.5,WV
+South Dakota,Todd,516.4,SD
+Ohio,Jefferson,516.3,OH
+Kentucky,Johnson,516.3,KY
+Ohio,Jackson,516.2,OH
+Mississippi,Tunica,516.0,MS
+Kentucky,Washington,516.0,KY
+Iowa,Cerro Gordo,516.0,IA
+Minnesota,Olmsted,516.0,MN
+Florida,Pasco,515.8,FL
+Arkansas,Arkansas,515.8,AR
+New York,Wayne,515.6,NY
+Minnesota,Marshall,515.5,MN
+Virginia,Bath,515.5,VA
+Missouri,Carter,515.4,MO
+New York,Chautauqua,515.2,NY
+Illinois,Jersey,515.1,IL
+Georgia,Towns,515.1,GA
+New York,Suffolk,514.9,NY
+Iowa,Greene,514.7,IA
+North Dakota,McHenry,514.7,ND
+New York,Yates,514.6,NY
+Iowa,Emmet,514.6,IA
+Minnesota,Isanti,514.4,MN
+New Jersey,Camden,514.3,NJ
+North Carolina,Tyrrell,514.1,NC
+Iowa,Butler,514.1,IA
+Illinois,Jackson,513.9,IL
+Arkansas,Searcy,513.8,AR
+Florida,Volusia,513.7,FL
+Kentucky,Woodford,513.6,KY
+Iowa,Benton,513.6,IA
+Iowa,Jackson,513.6,IA
+Texas,Fisher,513.5,TX
+Oklahoma,McCurtain,513.5,OK
+West Virginia,Barbour,513.1,WV
+Georgia,Baldwin,513.1,GA
+Illinois,Bureau,513.1,IL
+Georgia,Cherokee,513.0,GA
+Illinois,Ford,513.0,IL
+West Virginia,Fayette,512.9,WV
+Florida,Clay,512.8,FL
+Minnesota,Beltrami,512.8,MN
+Mississippi,Lee,512.7,MS
+Kentucky,Jefferson,512.7,KY
+North Carolina,Sampson,512.7,NC
+Iowa,Buchanan,512.6,IA
+Virginia,Brunswick,512.6,VA
+Iowa,Dickinson,512.5,IA
+Georgia,Crawford,512.5,GA
+Tennessee,Marion,512.5,TN
+Montana,Liberty,512.4,MT
+Kentucky,Campbell,512.4,KY
+Oklahoma,Nowata,512.3,OK
+Georgia,Walton,512.0,GA
+Iowa,Page,511.8,IA
+Iowa,Ringgold,511.7,IA
+Texas,Sterling,511.7,TX
+Iowa,Boone,511.7,IA
+Minnesota,Big Stone,511.6,MN
+Nebraska,Nance,511.5,NE
+Mississippi,Smith,511.4,MS
+Iowa,Pocahontas,511.4,IA
+North Carolina,Cleveland,511.2,NC
+Montana,Powell,511.2,MT
+Nevada,Esmeralda,511.1,NV
+Kentucky,Jackson,511.1,KY
+New York,Chemung,510.9,NY
+Kentucky,Carroll,510.7,KY
+Florida,Wakulla,510.7,FL
+Missouri,Stoddard,510.7,MO
+Pennsylvania,Cameron,510.6,PA
+North Carolina,Person,510.5,NC
+Texas,Henderson,510.4,TX
+Pennsylvania,Columbia,510.2,PA
+Tennessee,Smith,510.0,TN
+Florida,St. Johns,510.0,FL
+Kentucky,Lee,509.9,KY
+Minnesota,Brown,509.9,MN
+Iowa,Des Moines,509.7,IA
+New York,Monroe,509.6,NY
+Ohio,Muskingum,509.4,OH
+Mississippi,Yazoo,509.4,MS
+Iowa,Plymouth,509.3,IA
+Tennessee,Benton,509.3,TN
+Wisconsin,Marquette,509.3,WI
+Tennessee,Rhea,509.3,TN
+North Carolina,Haywood,509.2,NC
+Michigan,Gladwin,509.1,MI
+Maryland,Wicomico,509.0,MD
+Minnesota,Mille Lacs,508.9,MN
+Georgia,Newton,508.9,GA
+Georgia,Bryan,508.9,GA
+Iowa,Lee,508.8,IA
+New York,Genesee,508.8,NY
+New Jersey,Burlington,508.7,NJ
+Kentucky,Madison,508.6,KY
+New York,Richmond,508.6,NY
+Tennessee,Haywood,508.6,TN
+Illinois,Stark,508.6,IL
+Iowa,Marion,508.4,IA
+New York,Albany,508.4,NY
+Kentucky,Garrard,508.4,KY
+Montana,Treasure,508.3,MT
+New York,Greene,508.3,NY
+Missouri,Dunklin,508.1,MO
+Minnesota,Sibley,508.0,MN
+South Dakota,Gregory,507.9,SD
+Minnesota,Crow Wing,507.8,MN
+Florida,Escambia,507.8,FL
+South Dakota,Clark,507.6,SD
+Montana,Stillwater,507.4,MT
+Tennessee,Macon,507.4,TN
+Illinois,Iroquois,507.3,IL
+Iowa,Scott,507.2,IA
+New York,Cayuga,507.1,NY
+Texas,Cherokee,507.0,TX
+Georgia,Spalding,506.9,GA
+Missouri,Scott,506.9,MO
+Missouri,Jasper,506.6,MO
+Missouri,Holt,506.6,MO
+West Virginia,Webster,506.6,WV
+Tennessee,Hancock,506.5,TN
+Georgia,Calhoun,506.5,GA
+Missouri,Worth,506.5,MO
+North Carolina,Rutherford,506.2,NC
+New Jersey,Sussex,506.2,NJ
+Tennessee,Campbell,506.2,TN
+Florida,Brevard,506.1,FL
+North Carolina,Lenoir,506.1,NC
+Tennessee,Houston,506.1,TN
+Ohio,Fayette,506.0,OH
+Virginia,Northampton,506.0,VA
+Kentucky,Nicholas,505.9,KY
+Iowa,Linn,505.9,IA
+Iowa,Mitchell,505.9,IA
+Kentucky,Greenup,505.9,KY
+Ohio,Guernsey,505.7,OH
+Virginia,Goochland,505.7,VA
+West Virginia,Cabell,505.6,WV
+Oklahoma,Dewey,505.5,OK
+Mississippi,Perry,505.5,MS
+Florida,Levy,505.4,FL
+Pennsylvania,Luzerne,505.4,PA
+Ohio,Meigs,505.4,OH
+Kentucky,Meade,505.4,KY
+Tennessee,Hickman,505.3,TN
+Pennsylvania,Northampton,505.3,PA
+Texas,Crockett,505.3,TX
+Kentucky,Jessamine,505.2,KY
+Florida,Gilchrist,505.2,FL
+Nebraska,Antelope,505.1,NE
+Minnesota,Lake,505.1,MN
+Montana,Broadwater,505.0,MT
+Georgia,Camden,505.0,GA
+Iowa,Iowa,504.9,IA
+North Dakota,Sargent,504.9,ND
+Georgia,Hall,504.9,GA
+Virginia,New Kent,504.8,VA
+North Carolina,Alamance,504.7,NC
+Mississippi,Lawrence,504.7,MS
+Montana,Yellowstone,504.6,MT
+Mississippi,Monroe,504.5,MS
+Georgia,Jefferson,504.5,GA
+North Dakota,Bottineau,504.5,ND
+Kentucky,Graves,504.5,KY
+Wisconsin,Racine,504.4,WI
+Illinois,Tazewell,504.4,IL
+Ohio,Perry,504.3,OH
+New York,Rensselaer,504.3,NY
+Maryland,Somerset,504.2,MD
+Kentucky,Lewis,504.1,KY
+Iowa,Worth,504.1,IA
+West Virginia,Marion,504.0,WV
+Georgia,Mitchell,504.0,GA
+Minnesota,Washington,504.0,MN
+Kentucky,Christian,503.9,KY
+Minnesota,Pennington,503.9,MN
+Ohio,Monroe,503.9,OH
+Kentucky,Boyle,503.8,KY
+Montana,Petroleum,503.7,MT
+Kentucky,Robertson,503.6,KY
+Tennessee,Tipton,503.5,TN
+Illinois,Perry,503.5,IL
+Florida,Columbia,503.5,FL
+Kentucky,Mason,503.4,KY
+West Virginia,Kanawha,503.4,WV
+Texas,Palo Pinto,503.2,TX
+Texas,Marion,503.1,TX
+North Dakota,Mountrail,503.1,ND
+Illinois,Warren,503.1,IL
+North Carolina,Gaston,502.9,NC
+Alabama,Pickens,502.9,AL
+Minnesota,Wadena,502.9,MN
+Texas,Chambers,502.9,TX
+Wisconsin,Green Lake,502.7,WI
+Georgia,Haralson,502.6,GA
+Kentucky,Fulton,502.6,KY
+Pennsylvania,Wyoming,502.5,PA
+Kentucky,Daviess,502.5,KY
+Wisconsin,Marinette,502.4,WI
+New Hampshire,Strafford,502.4,NH
+Georgia,Wilkinson,502.3,GA
+Mississippi,Yalobusha,502.3,MS
+West Virginia,Putnam,502.2,WV
+Pennsylvania,Monroe,502.1,PA
+Minnesota,Yellow Medicine,502.1,MN
+Illinois,Clinton,502.1,IL
+Minnesota,Chisago,502.0,MN
+Minnesota,Pine,502.0,MN
+Iowa,Humboldt,501.9,IA
+Tennessee,Sevier,501.8,TN
+Minnesota,Polk,501.6,MN
+Illinois,Woodford,501.6,IL
+Georgia,Pierce,501.6,GA
+North Carolina,Craven,501.5,NC
+Minnesota,Watonwan,501.5,MN
+Pennsylvania,Greene,501.4,PA
+Texas,Franklin,501.4,TX
+New York,Saratoga,501.4,NY
+Iowa,Ida,501.4,IA
+Iowa,Grundy,501.3,IA
+Mississippi,Calhoun,501.3,MS
+Mississippi,Pontotoc,501.3,MS
+Illinois,Bond,501.2,IL
+Illinois,Madison,501.1,IL
+Washington,Clallam,501.1,WA
+New Jersey,Warren,501.1,NJ
+Wisconsin,Walworth,501.0,WI
+New York,Livingston,500.9,NY
+Oklahoma,Okfuskee,500.9,OK
+Illinois,Peoria,500.8,IL
+West Virginia,Braxton,500.7,WV
+Nebraska,Valley,500.7,NE
+Georgia,Madison,500.6,GA
+Ohio,Harrison,500.6,OH
+North Carolina,Surry,500.6,NC
+Kentucky,Letcher,500.4,KY
+Maryland,Worcester,500.3,MD
+Florida,Putnam,500.3,FL
+Kentucky,Hopkins,500.3,KY
+North Carolina,Halifax,500.2,NC
+Georgia,Talbot,500.2,GA
+New York,Onondaga,500.2,NY
+Virginia,Giles,500.1,VA
+Ohio,Highland,500.1,OH
+West Virginia,Tucker,500.1,WV
+Missouri,Bollinger,500.0,MO
+North Carolina,Lincoln,500.0,NC
+Missouri,Wayne,500.0,MO
+Alabama,Clarke,499.9,AL
+Pennsylvania,Lehigh,499.9,PA
+Mississippi,Pearl River,499.5,MS
+Minnesota,Redwood,499.4,MN
+North Carolina,Moore,499.4,NC
+Tennessee,Lewis,499.4,TN
+Tennessee,Cheatham,499.4,TN
+Iowa,Floyd,499.4,IA
+Oklahoma,Creek,499.3,OK
+Illinois,Brown,499.3,IL
+Maryland,Cecil,499.0,MD
+Missouri,Lincoln,499.0,MO
+Iowa,Marshall,499.0,IA
+Georgia,Heard,499.0,GA
+North Carolina,Edgecombe,499.0,NC
+Arkansas,Clark,498.9,AR
+West Virginia,Jackson,498.9,WV
+Kentucky,Casey,498.9,KY
+New York,Tioga,498.9,NY
+Florida,Duval,498.8,FL
+Illinois,La Salle,498.8,IL
+Kentucky,Larue,498.7,KY
+Texas,Panola,498.5,TX
+Wisconsin,Washington,498.4,WI
+Tennessee,Carroll,498.4,TN
+Texas,Hill,498.3,TX
+Texas,Gregg,498.3,TX
+Mississippi,Leflore,498.3,MS
+Minnesota,Otter Tail,498.2,MN
+Delaware,Kent,498.2,DE
+Texas,Parker,498.2,TX
+New York,Clinton,498.2,NY
+Texas,Fannin,498.1,TX
+Mississippi,Jefferson,498.0,MS
+Tennessee,Chester,497.9,TN
+Florida,Hillsborough,497.9,FL
+Wisconsin,Milwaukee,497.9,WI
+Ohio,Ottawa,497.9,OH
+Georgia,Brooks,497.8,GA
+Illinois,Williamson,497.8,IL
+Mississippi,Forrest,497.7,MS
+Pennsylvania,Northumberland,497.6,PA
+New York,Herkimer,497.5,NY
+Kentucky,Ohio,497.5,KY
+West Virginia,Upshur,497.4,WV
+Texas,Knox,497.2,TX
+North Carolina,Caldwell,497.2,NC
+Georgia,Banks,497.0,GA
+Ohio,Vinton,497.0,OH
+Mississippi,Simpson,497.0,MS
+New York,Chenango,496.9,NY
+Ohio,Brown,496.9,OH
+Ohio,Licking,496.8,OH
+Illinois,Cumberland,496.8,IL
+New Hampshire,Sullivan,496.6,NH
+Mississippi,Montgomery,496.6,MS
+Texas,Dickens,496.5,TX
+Iowa,Calhoun,496.5,IA
+Georgia,Dougherty,496.5,GA
+Nebraska,Cass,496.5,NE
+Wisconsin,Lafayette,496.5,WI
+Georgia,Echols,496.5,GA
+Pennsylvania,Washington,496.3,PA
+Iowa,Muscatine,496.2,IA
+North Carolina,Robeson,496.2,NC
+New York,Otsego,496.2,NY
+Missouri,Osage,496.1,MO
+New Jersey,Salem,496.0,NJ
+Illinois,Kankakee,495.9,IL
+New York,Lewis,495.9,NY
+North Dakota,Benson,495.9,ND
+Ohio,Preble,495.8,OH
+Missouri,Lewis,495.8,MO
+Kentucky,Boone,495.7,KY
+Mississippi,Union,495.7,MS
+South Dakota,Douglas,495.7,SD
+New York,Columbia,495.7,NY
+Wisconsin,Waushara,495.6,WI
+North Carolina,Davidson,495.6,NC
+Wisconsin,Kenosha,495.6,WI
+Michigan,Kalkaska,495.5,MI
+North Carolina,Pamlico,495.3,NC
+New York,Cattaraugus,495.2,NY
+Maryland,Harford,495.2,MD
+Florida,Lake,495.2,FL
+Ohio,Marion,495.1,OH
+Texas,Real,495.1,TX
+Arkansas,Craighead,494.9,AR
+Florida,Pinellas,494.9,FL
+Texas,Wichita,494.9,TX
+Tennessee,Grundy,494.6,TN
+Mississippi,Jefferson Davis,494.5,MS
+Minnesota,Anoka,494.4,MN
+Wisconsin,Waukesha,494.1,WI
+Montana,Roosevelt,494.1,MT
+Minnesota,St. Louis,494.1,MN
+Illinois,Effingham,494.0,IL
+North Carolina,Martin,494.0,NC
+Georgia,Greene,494.0,GA
+Maine,Waldo,493.9,ME
+New York,Oneida,493.9,NY
+Iowa,Mills,493.8,IA
+Florida,Dixie,493.8,FL
+Missouri,Franklin,493.8,MO
+South Carolina,Dillon,493.8,SC
+Ohio,Pickaway,493.7,OH
+Florida,Polk,493.6,FL
+North Carolina,Randolph,493.5,NC
+Minnesota,Clearwater,493.5,MN
+Texas,Lampasas,493.3,TX
+West Virginia,Tyler,493.3,WV
+Georgia,Jackson,493.3,GA
+Maryland,Carroll,493.3,MD
+North Carolina,Pender,493.2,NC
+Oklahoma,Cherokee,493.2,OK
+Alabama,Calhoun,493.2,AL
+Minnesota,Itasca,493.1,MN
+New York,Schenectady,493.1,NY
+Ohio,Knox,493.1,OH
+Kentucky,Franklin,493.1,KY
+North Carolina,Brunswick,493.0,NC
+Kentucky,Breathitt,492.9,KY
+Georgia,Worth,492.9,GA
+Wisconsin,Rock,492.7,WI
+Ohio,Hardin,492.7,OH
+West Virginia,Ohio,492.6,WV
+Oklahoma,Ottawa,492.6,OK
+Arkansas,Cleburne,492.5,AR
+Maryland,Dorchester,492.5,MD
+Georgia,Ben Hill,492.5,GA
+North Carolina,Davie,492.4,NC
+Arkansas,Greene,492.4,AR
+Minnesota,Faribault,492.4,MN
+Ohio,Morgan,492.3,OH
+Georgia,Murray,492.3,GA
+Ohio,Clark,492.3,OH
+New York,Nassau,492.3,NY
+Iowa,Cedar,492.3,IA
+Kentucky,Leslie,492.2,KY
+New Hampshire,Merrimack,492.1,NH
+Wisconsin,Crawford,492.1,WI
+Washington,Mason,492.0,WA
+Iowa,Fremont,491.9,IA
+Idaho,Elmore,491.9,ID
+Ohio,Clinton,491.8,OH
+Minnesota,Kittson,491.6,MN
+Iowa,Jones,491.5,IA
+South Dakota,Hutchinson,491.5,SD
+Nebraska,Lincoln,491.5,NE
+Georgia,Paulding,491.4,GA
+Georgia,Meriwether,491.4,GA
+Illinois,Jefferson,491.3,IL
+Ohio,Seneca,491.3,OH
+Georgia,Fannin,491.2,GA
+Alabama,Wilcox,491.1,AL
+Texas,Upshur,491.1,TX
+New Jersey,Cumberland,491.1,NJ
+Kentucky,Lyon,491.0,KY
+Wisconsin,Adams,490.8,WI
+North Dakota,Foster,490.8,ND
+Pennsylvania,Carbon,490.7,PA
+Montana,Fallon,490.7,MT
+Wisconsin,Juneau,490.7,WI
+Iowa,Polk,490.6,IA
+Missouri,Randolph,490.6,MO
+Michigan,Macomb,490.6,MI
+South Dakota,Charles Mix,490.5,SD
+Ohio,Belmont,490.5,OH
+Maine,Somerset,490.4,ME
+Kentucky,Laurel,490.4,KY
+New York,Broome,490.4,NY
+Georgia,Cook,490.3,GA
+New York,Steuben,490.2,NY
+Minnesota,Fillmore,490.2,MN
+Iowa,Mahaska,490.2,IA
+Texas,Runnels,490.0,TX
+Kentucky,Trigg,490.0,KY
+Mississippi,Issaquena,490.0,MS
+Kentucky,Bell,489.9,KY
+Minnesota,Cottonwood,489.9,MN
+Mississippi,Hinds,489.8,MS
+Florida,Highlands,489.8,FL
+North Dakota,Cass,489.7,ND
+Virginia,Greensville,489.7,VA
+Georgia,Stewart,489.7,GA
+Oklahoma,Kay,489.7,OK
+Washington,Grays Harbor,489.7,WA
+Mississippi,Madison,489.6,MS
+North Carolina,Johnston,489.6,NC
+Illinois,Marshall,489.6,IL
+Minnesota,Aitkin,489.5,MN
+Minnesota,Dakota,489.5,MN
+Virginia,Dinwiddie,489.4,VA
+Pennsylvania,Blair,489.2,PA
+Georgia,Brantley,489.2,GA
+Washington,Skagit,489.2,WA
+Tennessee,Monroe,489.2,TN
+Ohio,Medina,489.1,OH
+Illinois,Montgomery,489.1,IL
+Georgia,Morgan,489.1,GA
+Tennessee,Hawkins,488.9,TN
+North Carolina,Rockingham,488.9,NC
+Texas,Montague,488.8,TX
+Alabama,Walker,488.8,AL
+Arkansas,Ouachita,488.6,AR
+Nebraska,Webster,488.5,NE
+Ohio,Lake,488.5,OH
+Wisconsin,Oneida,488.4,WI
+North Carolina,Hoke,488.4,NC
+Nebraska,Jefferson,488.3,NE
+Oklahoma,Caddo,488.3,OK
+New York,Madison,488.2,NY
+Georgia,Polk,488.2,GA
+Oklahoma,Muskogee,488.2,OK
+New York,Putnam,488.2,NY
+South Carolina,Colleton,488.1,SC
+Idaho,Shoshone,488.1,ID
+Florida,Santa Rosa,488.0,FL
+West Virginia,Ritchie,488.0,WV
+North Carolina,Union,487.9,NC
+North Carolina,Harnett,487.9,NC
+New York,Washington,487.9,NY
+Iowa,Bremer,487.8,IA
+North Carolina,Yancey,487.7,NC
+Idaho,Lewis,487.7,ID
+Texas,Coke,487.6,TX
+Ohio,Lorain,487.6,OH
+North Carolina,Caswell,487.6,NC
+Pennsylvania,Lycoming,487.5,PA
+Minnesota,Le Sueur,487.5,MN
+Minnesota,Douglas,487.4,MN
+Ohio,Montgomery,487.4,OH
+Nebraska,Burt,487.3,NE
+Illinois,Moultrie,487.3,IL
+Rhode Island,Kent,487.2,RI
+California,Glenn,487.2,CA
+North Carolina,Columbus,487.0,NC
+Montana,Phillips,487.0,MT
+Oklahoma,Kiowa,487.0,OK
+Mississippi,Pike,486.9,MS
+Virginia,Mecklenburg,486.8,VA
+Arkansas,Logan,486.7,AR
+Idaho,Washington,486.7,ID
+Florida,Sarasota,486.6,FL
+Michigan,Ogemaw,486.6,MI
+New Jersey,Atlantic,486.5,NJ
+Tennessee,Henry,486.5,TN
+Arkansas,Hot Spring,486.4,AR
+Washington,Kitsap,486.3,WA
+Montana,Flathead,486.3,MT
+Michigan,Bay,486.3,MI
+Mississippi,Tallahatchie,486.2,MS
+Mississippi,Itawamba,486.1,MS
+Texas,Cooke,486.1,TX
+Tennessee,Hardeman,486.1,TN
+Wisconsin,Ozaukee,486.1,WI
+Illinois,Douglas,486.1,IL
+Georgia,Gordon,486.0,GA
+Nebraska,Sarpy,486.0,NE
+North Carolina,Vance,486.0,NC
+Oklahoma,Choctaw,485.9,OK
+Texas,Cass,485.8,TX
+West Virginia,Wyoming,485.7,WV
+Iowa,Pottawattamie,485.6,IA
+Nebraska,Douglas,485.5,NE
+Ohio,Champaign,485.5,OH
+Michigan,Montmorency,485.5,MI
+West Virginia,Raleigh,485.5,WV
+Nebraska,Cedar,485.5,NE
+Iowa,Union,485.5,IA
+Minnesota,Carlton,485.4,MN
+New Mexico,Harding,485.4,NM
+Missouri,Butler,485.4,MO
+Nebraska,Dodge,485.3,NE
+Wisconsin,Vilas,485.3,WI
+New York,Franklin,485.3,NY
+Idaho,Boundary,485.3,ID
+Mississippi,Harrison,485.2,MS
+Pennsylvania,Clinton,485.2,PA
+South Dakota,Union,485.2,SD
+Georgia,Carroll,485.1,GA
+Rhode Island,Washington,485.1,RI
+North Carolina,Rowan,485.1,NC
+Minnesota,Sherburne,485.1,MN
+Tennessee,Greene,485.0,TN
+North Dakota,Morton,484.9,ND
+South Dakota,Hamlin,484.8,SD
+West Virginia,Marshall,484.8,WV
+Texas,Wise,484.7,TX
+New York,Schoharie,484.7,NY
+West Virginia,Nicholas,484.7,WV
+Minnesota,Wabasha,484.6,MN
+North Carolina,Scotland,484.6,NC
+Virginia,Charles City,484.5,VA
+Ohio,Richland,484.5,OH
+Maryland,Caroline,484.5,MD
+Ohio,Madison,484.4,OH
+North Carolina,New Hanover,484.4,NC
+Texas,McMullen,484.2,TX
+Ohio,Scioto,484.1,OH
+Ohio,Athens,484.1,OH
+Iowa,Webster,484.0,IA
+North Carolina,Washington,484.0,NC
+Minnesota,Goodhue,484.0,MN
+South Dakota,Hughes,483.9,SD
+Arkansas,Franklin,483.9,AR
+Minnesota,Martin,483.8,MN
+Kentucky,Scott,483.8,KY
+Tennessee,Maury,483.7,TN
+Nebraska,Furnas,483.7,NE
+Virginia,Lunenburg,483.6,VA
+Missouri,New Madrid,483.6,MO
+Kentucky,Muhlenberg,483.5,KY
+Michigan,Lake,483.4,MI
+Ohio,Coshocton,483.3,OH
+California,Butte,483.2,CA
+Alabama,Tallapoosa,483.1,AL
+Minnesota,Kandiyohi,483.1,MN
+Illinois,Schuyler,483.0,IL
+Texas,Bell,483.0,TX
+Georgia,Tift,483.0,GA
+Georgia,Forsyth,483.0,GA
+Texas,Lamar,482.9,TX
+Maine,York,482.9,ME
+Mississippi,Panola,482.8,MS
+Texas,Aransas,482.8,TX
+North Carolina,Iredell,482.7,NC
+Oklahoma,Jefferson,482.7,OK
+Iowa,Lyon,482.7,IA
+Maine,Knox,482.7,ME
+Kentucky,Knott,482.6,KY
+Nebraska,Nemaha,482.6,NE
+Mississippi,Marion,482.6,MS
+Texas,Sutton,482.6,TX
+Pennsylvania,Perry,482.5,PA
+Arkansas,Monroe,482.5,AR
+Pennsylvania,Lackawanna,482.2,PA
+North Carolina,Duplin,482.2,NC
+Wisconsin,Lincoln,482.2,WI
+Missouri,Monroe,482.1,MO
+Georgia,Franklin,482.1,GA
+Pennsylvania,Erie,482.1,PA
+Washington,Pierce,482.1,WA
+Iowa,Sioux,481.9,IA
+New Hampshire,Belknap,481.9,NH
+Tennessee,Stewart,481.9,TN
+Virginia,Orange,481.7,VA
+North Carolina,Franklin,481.7,NC
+Georgia,Gilmer,481.6,GA
+West Virginia,Morgan,481.6,WV
+Georgia,Bartow,481.5,GA
+New Hampshire,Coos,481.5,NH
+Georgia,Thomas,481.4,GA
+Tennessee,Warren,481.2,TN
+West Virginia,Gilmer,481.1,WV
+Iowa,Taylor,481.1,IA
+Wisconsin,Price,481.1,WI
+Minnesota,Cass,481.0,MN
+Illinois,Carroll,481.0,IL
+Mississippi,Washington,480.9,MS
+Arkansas,Van Buren,480.9,AR
+Illinois,St. Clair,480.8,IL
+Washington,Snohomish,480.8,WA
+Kentucky,Shelby,480.7,KY
+Georgia,Lincoln,480.7,GA
+West Virginia,Greenbrier,480.6,WV
+West Virginia,Wood,480.6,WV
+Illinois,Ogle,480.6,IL
+Oklahoma,Alfalfa,480.5,OK
+Texas,Wood,480.5,TX
+North Carolina,Guilford,480.5,NC
+Iowa,Washington,480.5,IA
+Maryland,Calvert,480.5,MD
+Kentucky,Morgan,480.4,KY
+Missouri,Jefferson,480.4,MO
+Georgia,Monroe,480.4,GA
+Washington,Thurston,480.4,WA
+Tennessee,Decatur,480.3,TN
+Florida,Bay,480.3,FL
+Georgia,Union,480.3,GA
+Texas,Hopkins,480.2,TX
+North Carolina,Stokes,480.2,NC
+Ohio,Huron,480.1,OH
+Nebraska,Hamilton,480.1,NE
+North Carolina,Burke,480.0,NC
+Oregon,Clatsop,480.0,OR
+Montana,Silver Bow,479.9,MT
+Iowa,Sac,479.9,IA
+Maryland,Baltimore,479.9,MD
+Tennessee,Cannon,479.8,TN
+Maryland,Queen Annes,479.8,MD
+Georgia,Troup,479.7,GA
+Kentucky,Allen,479.6,KY
+North Carolina,Carteret,479.6,NC
+Florida,Baker,479.6,FL
+Georgia,Douglas,479.5,GA
+Pennsylvania,Sullivan,479.5,PA
+Missouri,Chariton,479.5,MO
+Illinois,Kendall,479.4,IL
+Georgia,Henry,479.4,GA
+Illinois,McHenry,479.4,IL
+West Virginia,Hancock,479.3,WV
+Tennessee,Blount,479.3,TN
+Iowa,O'Brien,479.3,IA
+Minnesota,Morrison,479.3,MN
+Arkansas,Cleveland,479.3,AR
+West Virginia,Wirt,479.2,WV
+Virginia,Prince George,479.1,VA
+Illinois,Randolph,479.1,IL
+Oklahoma,Pottawatomie,479.0,OK
+Minnesota,Lyon,478.9,MN
+Georgia,Treutlen,478.9,GA
+South Dakota,Codington,478.9,SD
+Mississippi,Walthall,478.9,MS
+North Carolina,Mitchell,478.8,NC
+Georgia,Turner,478.8,GA
+Nebraska,Saline,478.8,NE
+Illinois,Fayette,478.8,IL
+Missouri,Buchanan,478.8,MO
+Minnesota,Dodge,478.7,MN
+Texas,Johnson,478.6,TX
+Kentucky,Hancock,478.6,KY
+Illinois,Calhoun,478.5,IL
+Michigan,Wayne,478.5,MI
+Illinois,Livingston,478.4,IL
+Kentucky,Fayette,478.4,KY
+Tennessee,McMinn,478.3,TN
+Oklahoma,Grant,478.1,OK
+Illinois,Piatt,478.1,IL
+Kentucky,Anderson,478.1,KY
+Iowa,Clayton,478.1,IA
+Tennessee,Weakley,477.9,TN
+Minnesota,Lake of the Woods,477.7,MN
+Tennessee,Fentress,477.7,TN
+Tennessee,Sullivan,477.6,TN
+Georgia,Appling,477.5,GA
+Pennsylvania,Mifflin,477.5,PA
+North Dakota,Eddy,477.5,ND
+New Jersey,Hunterdon,477.4,NJ
+South Carolina,Cherokee,477.4,SC
+Texas,Swisher,477.4,TX
+Missouri,Macon,477.4,MO
+Idaho,Payette,477.4,ID
+North Dakota,Sheridan,477.4,ND
+Arkansas,Crawford,477.3,AR
+Minnesota,Wright,477.3,MN
+Arkansas,White,477.3,AR
+Ohio,Defiance,477.2,OH
+Illinois,Hardin,477.2,IL
+Missouri,Pike,477.1,MO
+Ohio,Lucas,477.1,OH
+Missouri,Washington,477.0,MO
+Iowa,Louisa,477.0,IA
+Iowa,Hardin,476.9,IA
+Missouri,Cooper,476.9,MO
+Texas,Rains,476.7,TX
+Kentucky,Rowan,476.7,KY
+Georgia,Dawson,476.6,GA
+Mississippi,Jackson,476.6,MS
+Tennessee,Lawrence,476.6,TN
+Arkansas,Scott,476.5,AR
+Massachusetts,Plymouth,476.5,MA
+Tennessee,White,476.5,TN
+Ohio,Cuyahoga,476.4,OH
+Montana,Lewis and Clark,476.4,MT
+Georgia,Richmond,476.3,GA
+North Carolina,Warren,476.3,NC
+North Carolina,Cabarrus,476.3,NC
+Missouri,Pulaski,476.2,MO
+North Carolina,Northampton,476.2,NC
+New Hampshire,Cheshire,476.2,NH
+Mississippi,Hancock,476.1,MS
+Arkansas,Lonoke,476.1,AR
+Missouri,Harrison,476.0,MO
+Texas,Dawson,476.0,TX
+Pennsylvania,Somerset,476.0,PA
+South Dakota,Brown,475.8,SD
+Washington,Whatcom,475.8,WA
+South Dakota,Day,475.7,SD
+Ohio,Hocking,475.7,OH
+Georgia,Houston,475.7,GA
+Ohio,Clermont,475.7,OH
+Michigan,Crawford,475.7,MI
+Pennsylvania,Berks,475.7,PA
+New York,Allegany,475.6,NY
+Iowa,Dubuque,475.6,IA
+New Hampshire,Rockingham,475.6,NH
+Colorado,Kiowa,475.6,CO
+Montana,Glacier,475.5,MT
+Texas,Matagorda,475.4,TX
+Iowa,Johnson,475.4,IA
+Pennsylvania,Cambria,475.3,PA
+Minnesota,Rice,475.3,MN
+Georgia,Muscogee,475.2,GA
+Connecticut,New London,475.2,CT
+Wisconsin,Oconto,475.0,WI
+Florida,Gadsden,475.0,FL
+Georgia,Toombs,475.0,GA
+Utah,Duchesne,475.0,UT
+Alabama,Lawrence,474.9,AL
+Georgia,Clinch,474.9,GA
+North Carolina,Cumberland,474.8,NC
+Montana,McCone,474.8,MT
+Texas,Burleson,474.8,TX
+Oklahoma,Craig,474.7,OK
+Tennessee,Jefferson,474.7,TN
+Ohio,Ashland,474.7,OH
+Arkansas,Cross,474.7,AR
+North Dakota,Ramsey,474.6,ND
+North Carolina,Alexander,474.6,NC
+Alabama,Elmore,474.6,AL
+Pennsylvania,Bradford,474.6,PA
+Tennessee,Gibson,474.6,TN
+Virginia,Prince Edward,474.5,VA
+New Jersey,Mercer,474.5,NJ
+Tennessee,Meigs,474.5,TN
+Missouri,Livingston,474.5,MO
+North Carolina,Madison,474.4,NC
+Pennsylvania,Beaver,474.4,PA
+Pennsylvania,Juniata,474.4,PA
+Minnesota,Winona,474.4,MN
+Texas,San Jacinto,474.4,TX
+Maryland,Kent,474.4,MD
+Texas,Hood,474.3,TX
+New York,Hamilton,474.2,NY
+Missouri,Pettis,474.2,MO
+Washington,Jefferson,474.1,WA
+West Virginia,Preston,474.1,WV
+Oklahoma,Harper,474.1,OK
+Pennsylvania,Venango,474.0,PA
+Georgia,Putnam,473.9,GA
+Kentucky,Simpson,473.8,KY
+Minnesota,Nobles,473.8,MN
+Missouri,Cape Girardeau,473.8,MO
+Texas,Uvalde,473.7,TX
+Texas,Red River,473.7,TX
+Wisconsin,Brown,473.7,WI
+Michigan,Alcona,473.7,MI
+Connecticut,Middlesex,473.7,CT
+Texas,Sabine,473.5,TX
+Iowa,Jasper,473.5,IA
+Ohio,Miami,473.5,OH
+Mississippi,Sunflower,473.4,MS
+Minnesota,Ramsey,473.3,MN
+Georgia,Liberty,473.1,GA
+Missouri,Gentry,473.1,MO
+Oklahoma,Garvin,473.0,OK
+Tennessee,Cocke,473.0,TN
+Georgia,Rabun,473.0,GA
+Maryland,Talbot,472.8,MD
+Florida,Bradford,472.8,FL
+Georgia,Ware,472.8,GA
+Connecticut,New Haven,472.8,CT
+Pennsylvania,Armstrong,472.8,PA
+Maryland,St. Marys,472.6,MD
+Tennessee,Union,472.6,TN
+Illinois,Lee,472.6,IL
+Washington,Island,472.6,WA
+Mississippi,Attala,472.6,MS
+Florida,Taylor,472.5,FL
+North Carolina,Greene,472.5,NC
+Texas,Liberty,472.4,TX
+Mississippi,Clay,472.4,MS
+Wisconsin,Manitowoc,472.2,WI
+Georgia,Lowndes,472.2,GA
+Connecticut,Windham,472.2,CT
+Florida,Hardee,472.0,FL
+Illinois,Henry,472.0,IL
+Georgia,Peach,472.0,GA
+Missouri,Andrew,471.9,MO
+South Carolina,Union,471.9,SC
+Nebraska,Otoe,471.8,NE
+Arkansas,Grant,471.8,AR
+Virginia,Rappahannock,471.8,VA
+Maine,Sagadahoc,471.7,ME
+Michigan,Oakland,471.7,MI
+Florida,Sumter,471.6,FL
+Tennessee,Crockett,471.6,TN
+Illinois,Saline,471.5,IL
+Wisconsin,Monroe,471.5,WI
+Virginia,King George,471.5,VA
+Illinois,Knox,471.5,IL
+Idaho,Butte,471.5,ID
+Pennsylvania,Union,471.4,PA
+Florida,Okeechobee,471.4,FL
+Mississippi,Wilkinson,471.4,MS
+Iowa,Delaware,471.3,IA
+New York,Orange,471.3,NY
+Kentucky,Edmonson,471.2,KY
+Ohio,Sandusky,471.1,OH
+Tennessee,Coffee,471.1,TN
+West Virginia,Pocahontas,471.0,WV
+Utah,Kane,471.0,UT
+Ohio,Fairfield,471.0,OH
+Michigan,Roscommon,471.0,MI
+Ohio,Hamilton,470.8,OH
+Missouri,Dallas,470.8,MO
+North Carolina,Chatham,470.8,NC
+Minnesota,Pope,470.7,MN
+Arkansas,Conway,470.6,AR
+Missouri,Mercer,470.6,MO
+Minnesota,Rock,470.6,MN
+Michigan,Saginaw,470.6,MI
+Maine,Kennebec,470.5,ME
+Nebraska,Richardson,470.5,NE
+Illinois,Will,470.5,IL
+Texas,Clay,470.3,TX
+Tennessee,Claiborne,470.3,TN
+Michigan,Alpena,470.2,MI
+Minnesota,Stearns,470.2,MN
+Montana,Lake,470.2,MT
+Minnesota,Scott,470.2,MN
+Iowa,Clarke,470.1,IA
+Georgia,Bibb,470.0,GA
+North Dakota,Pembina,469.9,ND
+Wisconsin,Jackson,469.9,WI
+Wisconsin,Clark,469.9,WI
+Nebraska,Merrick,469.8,NE
+Florida,St. Lucie,469.7,FL
+Mississippi,Marshall,469.6,MS
+Minnesota,Kanabec,469.6,MN
+Vermont,Rutland,469.6,VT
+South Carolina,Georgetown,469.5,SC
+South Dakota,McPherson,469.5,SD
+Florida,Suwannee,469.5,FL
+Texas,Potter,469.3,TX
+North Carolina,Forsyth,469.3,NC
+Texas,Smith,469.3,TX
+Georgia,Wilkes,469.3,GA
+Ohio,Columbiana,469.3,OH
+Georgia,Floyd,469.3,GA
+Illinois,Johnson,469.3,IL
+Texas,Trinity,469.2,TX
+Mississippi,Sharkey,469.1,MS
+Michigan,Clare,469.0,MI
+New Jersey,Morris,469.0,NJ
+Missouri,Miller,468.9,MO
+Georgia,Emanuel,468.9,GA
+Tennessee,Dyer,468.9,TN
+Connecticut,Hartford,468.8,CT
+Ohio,Carroll,468.8,OH
+Oklahoma,McClain,468.8,OK
+Oklahoma,Stephens,468.7,OK
+New York,Delaware,468.7,NY
+Texas,Leon,468.7,TX
+West Virginia,Berkeley,468.7,WV
+Iowa,Wayne,468.7,IA
+Oklahoma,Roger Mills,468.6,OK
+Texas,Bosque,468.6,TX
+Georgia,Coweta,468.6,GA
+South Carolina,Greenwood,468.6,SC
+Florida,Charlotte,468.5,FL
+Michigan,Jackson,468.4,MI
+Mississippi,Stone,468.4,MS
+Georgia,Burke,468.3,GA
+Tennessee,Wayne,468.3,TN
+Washington,Okanogan,468.3,WA
+Texas,Lynn,468.2,TX
+Texas,Young,468.2,TX
+Ohio,Wood,468.1,OH
+Montana,Lincoln,468.1,MT
+Tennessee,Sumner,468.1,TN
+Minnesota,Meeker,468.1,MN
+Washington,Douglas,468.1,WA
+Virginia,Wythe,468.0,VA
+Connecticut,Tolland,468.0,CT
+Illinois,Putnam,467.9,IL
+Michigan,St. Clair,467.9,MI
+Georgia,Whitfield,467.9,GA
+Wisconsin,Vernon,467.8,WI
+West Virginia,Mineral,467.8,WV
+Iowa,Warren,467.8,IA
+Georgia,McIntosh,467.7,GA
+Kentucky,Caldwell,467.7,KY
+Texas,Borden,467.6,TX
+Missouri,Perry,467.5,MO
+Georgia,Chattooga,467.5,GA
+Georgia,Berrien,467.5,GA
+South Dakota,Davison,467.5,SD
+Arkansas,Crittenden,467.4,AR
+Oklahoma,Lincoln,467.4,OK
+Alabama,Morgan,467.3,AL
+South Carolina,Greenville,467.3,SC
+Pennsylvania,Warren,467.2,PA
+Ohio,Ashtabula,467.1,OH
+Tennessee,Robertson,467.1,TN
+Wyoming,Park,467.0,WY
+North Carolina,Cherokee,467.0,NC
+Ohio,Warren,466.9,OH
+Iowa,Henry,466.9,IA
+Utah,Summit,466.8,UT
+Florida,Seminole,466.8,FL
+Missouri,Ste. Genevieve,466.8,MO
+Ohio,Erie,466.7,OH
+North Carolina,Henderson,466.7,NC
+Georgia,Johnson,466.4,GA
+Alabama,Greene,466.4,AL
+North Dakota,Nelson,466.4,ND
+Alabama,Clay,466.4,AL
+Oklahoma,Payne,466.4,OK
+Nebraska,Adams,466.4,NE
+Illinois,De Witt,466.2,IL
+Nebraska,Gage,466.1,NE
+Maine,Aroostook,466.1,ME
+Minnesota,Nicollet,466.1,MN
+Oklahoma,Haskell,466.0,OK
+Pennsylvania,Snyder,466.0,PA
+Nebraska,Washington,466.0,NE
+Missouri,Shelby,466.0,MO
+Ohio,Geauga,466.0,OH
+Oklahoma,Woods,465.9,OK
+Virginia,Caroline,465.8,VA
+Illinois,Lawrence,465.8,IL
+New York,St. Lawrence,465.8,NY
+Texas,Orange,465.8,TX
+Georgia,Coffee,465.7,GA
+Tennessee,Loudon,465.7,TN
+Texas,Waller,465.6,TX
+Idaho,Caribou,465.5,ID
+Iowa,Winneshiek,465.4,IA
+Wisconsin,Fond du Lac,465.3,WI
+Tennessee,Cumberland,465.3,TN
+Tennessee,Anderson,465.3,TN
+Washington,Chelan,465.3,WA
+Texas,Nolan,465.3,TX
+Iowa,Osceola,465.3,IA
+Missouri,Warren,465.3,MO
+Oklahoma,Blaine,465.1,OK
+North Dakota,Richland,465.1,ND
+Tennessee,Scott,465.0,TN
+Georgia,Cobb,465.0,GA
+Georgia,Colquitt,464.9,GA
+Pennsylvania,Bucks,464.9,PA
+New Jersey,Bergen,464.9,NJ
+Alabama,Conecuh,464.9,AL
+Georgia,Bacon,464.9,GA
+Wisconsin,Washburn,464.8,WI
+Arkansas,Baxter,464.7,AR
+Pennsylvania,Allegheny,464.7,PA
+Oregon,Columbia,464.7,OR
+Missouri,Morgan,464.7,MO
+Texas,Tyler,464.7,TX
+North Carolina,Polk,464.6,NC
+Texas,Reagan,464.5,TX
+Tennessee,Clay,464.5,TN
+Georgia,Fulton,464.5,GA
+South Dakota,Hand,464.5,SD
+Pennsylvania,York,464.4,PA
+Ohio,Union,464.4,OH
+Arkansas,Union,464.3,AR
+Virginia,King and Queen,464.1,VA
+Illinois,Hancock,464.1,IL
+Alabama,Pike,464.1,AL
+Texas,Zavala,463.9,TX
+California,Santa Cruz,463.9,CA
+Iowa,Fayette,463.8,IA
+Missouri,Gasconade,463.8,MO
+Mississippi,Jasper,463.8,MS
+Idaho,Canyon,463.7,ID
+North Carolina,Beaufort,463.7,NC
+Mississippi,Prentiss,463.6,MS
+Arkansas,Jackson,463.6,AR
+North Dakota,Burleigh,463.6,ND
+Texas,Haskell,463.5,TX
+Texas,Kaufman,463.5,TX
+Kentucky,Warren,463.5,KY
+Virginia,Southampton,463.5,VA
+Montana,Valley,463.4,MT
+Nebraska,Platte,463.3,NE
+Texas,Van Zandt,463.3,TX
+West Virginia,Monroe,463.3,WV
+Texas,Hutchinson,463.2,TX
+West Virginia,Monongalia,463.1,WV
+Texas,Milam,463.1,TX
+Arkansas,Garland,463.0,AR
+Connecticut,Litchfield,462.9,CT
+Georgia,Clayton,462.8,GA
+Missouri,Shannon,462.8,MO
+Georgia,Macon,462.8,GA
+Georgia,Hart,462.8,GA
+Texas,Newton,462.8,TX
+North Carolina,Lee,462.7,NC
+Ohio,Butler,462.7,OH
+Texas,Gillespie,462.5,TX
+North Carolina,Mecklenburg,462.4,NC
+Texas,Hardin,462.4,TX
+Nebraska,Dixon,462.4,NE
+Tennessee,Hamblen,462.3,TN
+Oklahoma,Tulsa,462.2,OK
+Mississippi,Webster,462.2,MS
+Oregon,Crook,462.1,OR
+Illinois,Wabash,462.0,IL
+New York,Dutchess,462.0,NY
+South Dakota,Miner,462.0,SD
+Nevada,Lyon,462.0,NV
+Texas,Grayson,461.9,TX
+Ohio,Summit,461.9,OH
+Maine,Oxford,461.8,ME
+Tennessee,Lauderdale,461.7,TN
+Pennsylvania,Lawrence,461.6,PA
+Oklahoma,Pittsburg,461.6,OK
+Virginia,Craig,461.6,VA
+Oklahoma,Pushmataha,461.5,OK
+California,Shasta,461.4,CA
+Montana,Hill,461.3,MT
+Illinois,Cass,461.3,IL
+Florida,Martin,461.3,FL
+Alabama,Washington,461.3,AL
+Alabama,Talladega,461.2,AL
+South Carolina,Chester,461.2,SC
+Tennessee,Henderson,461.2,TN
+Nebraska,York,461.2,NE
+Nebraska,Madison,461.1,NE
+Delaware,Sussex,461.1,DE
+Alabama,Butler,460.9,AL
+Arkansas,Dallas,460.8,AR
+Tennessee,Roane,460.7,TN
+North Dakota,Ward,460.7,ND
+North Carolina,Bertie,460.7,NC
+Nebraska,Harlan,460.6,NE
+Tennessee,Hamilton,460.6,TN
+Mississippi,Lowndes,460.5,MS
+Illinois,Union,460.5,IL
+Virginia,Culpeper,460.3,VA
+Wisconsin,Winnebago,460.3,WI
+Illinois,Whiteside,460.1,IL
+Michigan,Midland,460.1,MI
+Missouri,Henry,460.1,MO
+Virginia,Spotsylvania,460.0,VA
+Michigan,Benzie,460.0,MI
+Iowa,Guthrie,460.0,IA
+Missouri,Reynolds,459.9,MO
+Tennessee,Grainger,459.9,TN
+Minnesota,Steele,459.9,MN
+Pennsylvania,Crawford,459.8,PA
+North Carolina,Yadkin,459.8,NC
+New York,Rockland,459.8,NY
+North Carolina,Bladen,459.7,NC
+Missouri,Callaway,459.6,MO
+Oregon,Josephine,459.6,OR
+Texas,Tom Green,459.6,TX
+Minnesota,Waseca,459.5,MN
+Iowa,Hancock,459.5,IA
+Alabama,Autauga,459.5,AL
+Nebraska,Nuckolls,459.5,NE
+Missouri,Ozark,459.4,MO
+Iowa,Van Buren,459.2,IA
+Pennsylvania,Mercer,459.2,PA
+North Carolina,Orange,459.2,NC
+Texas,Limestone,459.1,TX
+Mississippi,Tate,459.0,MS
+Arkansas,Boone,458.9,AR
+Texas,Somervell,458.9,TX
+Connecticut,Fairfield,458.9,CT
+Mississippi,Copiah,458.9,MS
+Georgia,Glynn,458.9,GA
+Oklahoma,Comanche,458.8,OK
+Missouri,Lafayette,458.8,MO
+Illinois,Lake,458.8,IL
+Ohio,Tuscarawas,458.8,OH
+Illinois,Coles,458.8,IL
+New Hampshire,Carroll,458.7,NH
+Minnesota,Hennepin,458.7,MN
+Kentucky,Ballard,458.7,KY
+Mississippi,Jones,458.7,MS
+Texas,Harrison,458.7,TX
+Georgia,Screven,458.6,GA
+South Carolina,Pickens,458.6,SC
+Wisconsin,Iron,458.6,WI
+Iowa,Davis,458.6,IA
+Massachusetts,Berkshire,458.4,MA
+Missouri,St. Louis,458.4,MO
+Missouri,Audrain,458.4,MO
+North Carolina,Durham,458.3,NC
+Mississippi,Lamar,458.3,MS
+Idaho,Bonner,458.2,ID
+Montana,Custer,458.2,MT
+Illinois,Champaign,458.1,IL
+Arkansas,Saline,458.1,AR
+Ohio,Greene,458.0,OH
+Oklahoma,Kingfisher,458.0,OK
+Missouri,Linn,457.9,MO
+Ohio,Crawford,457.9,OH
+Texas,Schleicher,457.8,TX
+Idaho,Kootenai,457.8,ID
+Arkansas,Phillips,457.7,AR
+Illinois,Monroe,457.6,IL
+North Dakota,Grand Forks,457.6,ND
+North Carolina,Wake,457.5,NC
+Tennessee,Bedford,457.5,TN
+Minnesota,Mower,457.5,MN
+Minnesota,Blue Earth,457.4,MN
+Missouri,Howell,457.4,MO
+Maryland,Anne Arundel,457.4,MD
+Oregon,Multnomah,457.4,OR
+North Carolina,Buncombe,457.3,NC
+Oklahoma,Noble,457.2,OK
+Tennessee,DeKalb,457.2,TN
+Massachusetts,Worcester,457.1,MA
+Arkansas,Lafayette,457.1,AR
+Illinois,Winnebago,457.1,IL
+Missouri,Phelps,457.1,MO
+Michigan,Grand Traverse,457.1,MI
+Georgia,Washington,457.1,GA
+South Dakota,Hyde,457.1,SD
+Wisconsin,Sheboygan,457.0,WI
+Vermont,Orleans,457.0,VT
+Tennessee,Obion,456.9,TN
+Iowa,Shelby,456.9,IA
+Texas,Angelina,456.9,TX
+Illinois,Massac,456.8,IL
+Texas,Ector,456.8,TX
+West Virginia,Mercer,456.8,WV
+Montana,Big Horn,456.7,MT
+Utah,Daggett,456.7,UT
+Texas,Victoria,456.7,TX
+Tennessee,Fayette,456.6,TN
+Texas,Coleman,456.5,TX
+Oklahoma,Rogers,456.4,OK
+South Dakota,Lake,456.4,SD
+North Carolina,Wilson,456.4,NC
+Texas,Kimble,456.4,TX
+Texas,Rusk,456.4,TX
+Pennsylvania,Elk,456.4,PA
+Pennsylvania,Bedford,456.3,PA
+New Hampshire,Hillsborough,456.3,NH
+New York,Westchester,456.3,NY
+Arkansas,Bradley,456.2,AR
+Minnesota,Murray,456.1,MN
+Missouri,Dent,456.1,MO
+Iowa,Lucas,456.1,IA
+Ohio,Franklin,455.9,OH
+Wisconsin,Ashland,455.8,WI
+Ohio,Portage,455.8,OH
+Nebraska,Saunders,455.8,NE
+California,San Luis Obispo,455.6,CA
+Montana,Teton,455.6,MT
+North Carolina,Pitt,455.6,NC
+Iowa,Crawford,455.5,IA
+Missouri,Barton,455.3,MO
+West Virginia,Brooke,455.3,WV
+Texas,Gonzales,455.3,TX
+South Dakota,Lincoln,455.0,SD
+New York,Ulster,454.8,NY
+South Carolina,Oconee,454.8,SC
+Arkansas,Sebastian,454.7,AR
+Iowa,Carroll,454.7,IA
+Virginia,Charlotte,454.6,VA
+Missouri,Grundy,454.6,MO
+Maryland,Washington,454.6,MD
+Texas,McLennan,454.5,TX
+Ohio,Stark,454.5,OH
+Texas,Galveston,454.5,TX
+Iowa,Winnebago,454.4,IA
+Texas,Hunt,454.4,TX
+Oklahoma,Washington,454.3,OK
+Alabama,Sumter,454.3,AL
+Massachusetts,Norfolk,454.3,MA
+Illinois,Richland,454.3,IL
+Michigan,Arenac,454.2,MI
+Virginia,Henrico,454.2,VA
+Nebraska,Custer,454.2,NE
+Mississippi,Newton,454.1,MS
+North Carolina,Montgomery,454.1,NC
+Nebraska,Polk,454.0,NE
+Florida,DeSoto,454.0,FL
+Georgia,Evans,453.9,GA
+Alabama,Hale,453.9,AL
+South Carolina,York,453.9,SC
+Missouri,Wright,453.9,MO
+Massachusetts,Bristol,453.8,MA
+Florida,Manatee,453.8,FL
+Alabama,Etowah,453.8,AL
+Wisconsin,Trempealeau,453.8,WI
+Pennsylvania,Potter,453.7,PA
+West Virginia,Jefferson,453.7,WV
+Virginia,Isle of Wight,453.7,VA
+Pennsylvania,Fayette,453.7,PA
+Arkansas,St. Francis,453.7,AR
+Vermont,Caledonia,453.6,VT
+Michigan,Gratiot,453.6,MI
+North Dakota,Hettinger,453.5,ND
+Mississippi,Tippah,453.4,MS
+Kentucky,Henderson,453.4,KY
+Illinois,Gallatin,453.4,IL
+Texas,Grimes,453.3,TX
+Illinois,McDonough,453.3,IL
+Tennessee,Knox,453.2,TN
+Wisconsin,Douglas,453.1,WI
+Oklahoma,Pontotoc,453.1,OK
+Iowa,Story,453.1,IA
+Virginia,Gloucester,453.1,VA
+Idaho,Ada,453.1,ID
+Iowa,Jefferson,453.0,IA
+Missouri,Moniteau,453.0,MO
+Ohio,Delaware,452.9,OH
+Pennsylvania,Susquehanna,452.9,PA
+Minnesota,McLeod,452.8,MN
+Mississippi,Carroll,452.7,MS
+Texas,Taylor,452.7,TX
+Virginia,Augusta,452.7,VA
+Texas,Briscoe,452.7,TX
+Iowa,Poweshiek,452.7,IA
+Nebraska,Howard,452.7,NE
+Ohio,Allen,452.6,OH
+Maine,Androscoggin,452.6,ME
+Idaho,Clearwater,452.5,ID
+South Carolina,Orangeburg,452.5,SC
+Nebraska,Buffalo,452.4,NE
+Mississippi,Noxubee,452.4,MS
+Wisconsin,Jefferson,452.3,WI
+California,Santa Barbara,452.3,CA
+Oklahoma,McIntosh,452.3,OK
+Tennessee,Wilson,452.2,TN
+Minnesota,Houston,452.2,MN
+South Dakota,Stanley,452.2,SD
+Maine,Franklin,452.2,ME
+Alabama,Lamar,452.1,AL
+Kentucky,Todd,452.1,KY
+Kentucky,Menifee,452.1,KY
+Arkansas,Faulkner,452.1,AR
+Michigan,Oscoda,452.0,MI
+Delaware,New Castle,451.9,DE
+North Carolina,Catawba,451.9,NC
+Missouri,Saline,451.8,MO
+Pennsylvania,Jefferson,451.8,PA
+Tennessee,Franklin,451.7,TN
+Missouri,St. Charles,451.6,MO
+Georgia,Harris,451.6,GA
+Georgia,Pulaski,451.5,GA
+Texas,Yoakum,451.5,TX
+South Carolina,Marion,451.4,SC
+Virginia,Botetourt,451.4,VA
+Iowa,Adams,451.4,IA
+Michigan,Sanilac,451.4,MI
+Florida,Leon,451.3,FL
+Virginia,Franklin,451.3,VA
+Mississippi,Bolivar,451.2,MS
+Utah,Beaver,451.2,UT
+Florida,Osceola,451.1,FL
+Texas,Ellis,451.1,TX
+Missouri,Benton,450.9,MO
+Wisconsin,Waupaca,450.7,WI
+Virginia,King William,450.7,VA
+South Dakota,Potter,450.6,SD
+Texas,Hardeman,450.4,TX
+New Jersey,Somerset,450.3,NJ
+South Carolina,Dorchester,450.3,SC
+South Carolina,Clarendon,450.3,SC
+Idaho,Bonneville,450.1,ID
+Tennessee,Rutherford,450.0,TN
+Arkansas,Calhoun,449.9,AR
+Mississippi,Scott,449.8,MS
+Tennessee,Bledsoe,449.8,TN
+Texas,Freestone,449.7,TX
+Illinois,Crawford,449.5,IL
+Tennessee,Montgomery,449.5,TN
+Georgia,Fayette,449.4,GA
+Utah,Carbon,449.4,UT
+Wyoming,Laramie,449.4,WY
+Georgia,Upson,449.3,GA
+Georgia,Glascock,449.2,GA
+Texas,Coryell,449.2,TX
+Wisconsin,Grant,449.1,WI
+Tennessee,Washington,449.1,TN
+Oklahoma,Seminole,449.1,OK
+Arkansas,Independence,449.0,AR
+Tennessee,Putnam,449.0,TN
+Pennsylvania,Dauphin,449.0,PA
+Vermont,Chittenden,448.8,VT
+Arkansas,Pope,448.8,AR
+Pennsylvania,Philadelphia,448.7,PA
+Florida,Lafayette,448.7,FL
+Georgia,Gwinnett,448.7,GA
+California,Tehama,448.6,CA
+Kentucky,Webster,448.6,KY
+Mississippi,Alcorn,448.5,MS
+Minnesota,Freeborn,448.5,MN
+Michigan,Lapeer,448.5,MI
+Missouri,Boone,448.5,MO
+Michigan,Wexford,448.4,MI
+Texas,Hamilton,448.4,TX
+Virginia,Middlesex,448.3,VA
+Nebraska,Cuming,448.3,NE
+Tennessee,McNairy,448.3,TN
+Tennessee,Polk,448.3,TN
+South Carolina,Laurens,448.2,SC
+Rhode Island,Bristol,448.2,RI
+Wisconsin,Door,448.2,WI
+Texas,Titus,448.2,TX
+South Carolina,Spartanburg,448.2,SC
+South Carolina,Florence,448.1,SC
+New Jersey,Union,448.0,NJ
+Vermont,Washington,448.0,VT
+Illinois,DuPage,447.9,IL
+Wisconsin,Shawano,447.8,WI
+Virginia,Louisa,447.8,VA
+Virginia,Fluvanna,447.8,VA
+Kentucky,Hickman,447.7,KY
+Alabama,Montgomery,447.7,AL
+Texas,Wheeler,447.6,TX
+Oklahoma,Washita,447.6,OK
+Wisconsin,Barron,447.6,WI
+Idaho,Gem,447.5,ID
+North Dakota,Renville,447.5,ND
+Georgia,Rockdale,447.5,GA
+Georgia,Early,447.5,GA
+Massachusetts,Barnstable,447.4,MA
+New Hampshire,Grafton,447.3,NH
+California,Yuba,447.3,CA
+Wisconsin,La Crosse,447.3,WI
+Arkansas,Fulton,447.2,AR
+Wisconsin,Columbia,447.2,WI
+Texas,Lavaca,447.2,TX
+Florida,Alachua,447.1,FL
+Texas,Kerr,447.1,TX
+New Jersey,Passaic,447.1,NJ
+Wisconsin,Marathon,447.0,WI
+Florida,Liberty,447.0,FL
+North Dakota,Barnes,446.9,ND
+Utah,Juab,446.8,UT
+Alabama,Marengo,446.8,AL
+Tennessee,Sequatchie,446.8,TN
+New York,Tompkins,446.7,NY
+Mississippi,DeSoto,446.6,MS
+Oklahoma,Grady,446.6,OK
+Wisconsin,Rusk,446.6,WI
+Virginia,Amherst,446.5,VA
+Michigan,Eaton,446.5,MI
+Georgia,Hancock,446.4,GA
+West Virginia,McDowell,446.4,WV
+Michigan,Leelanau,446.3,MI
+Oklahoma,Adair,446.3,OK
+Montana,Carter,446.3,MT
+Virginia,Floyd,446.1,VA
+South Carolina,McCormick,446.1,SC
+Illinois,Edgar,446.1,IL
+Pennsylvania,Pike,446.0,PA
+Arkansas,Lee,446.0,AR
+Pennsylvania,Lancaster,446.0,PA
+Alabama,Henry,446.0,AL
+Virginia,Westmoreland,446.0,VA
+Mississippi,Clarke,446.0,MS
+Minnesota,Carver,445.9,MN
+Vermont,Bennington,445.9,VT
+Montana,Pondera,445.9,MT
+Oklahoma,Le Flore,445.9,OK
+Illinois,Kane,445.9,IL
+Missouri,Clay,445.8,MO
+Texas,Burnet,445.8,TX
+Minnesota,Jackson,445.7,MN
+Michigan,Iosco,445.7,MI
+North Carolina,Clay,445.7,NC
+Arkansas,Yell,445.7,AR
+Florida,Hendry,445.7,FL
+Wisconsin,Wood,445.7,WI
+North Carolina,Avery,445.6,NC
+Colorado,Prowers,445.5,CO
+West Virginia,Summers,445.5,WV
+Vermont,Franklin,445.4,VT
+Wisconsin,Dane,445.3,WI
+Texas,Williamson,445.1,TX
+South Carolina,Anderson,445.1,SC
+Pennsylvania,Delaware,445.1,PA
+Pennsylvania,Adams,444.9,PA
+Michigan,Manistee,444.9,MI
+Missouri,St. Clair,444.8,MO
+Alabama,Bibb,444.8,AL
+Pennsylvania,Tioga,444.7,PA
+Tennessee,Overton,444.7,TN
+Texas,Brown,444.7,TX
+Texas,Brazoria,444.6,TX
+Ohio,Morrow,444.6,OH
+Washington,San Juan,444.6,WA
+Oregon,Marion,444.6,OR
+Texas,Bowie,444.5,TX
+Maine,Cumberland,444.5,ME
+Alabama,Barbour,444.5,AL
+Missouri,Johnson,444.5,MO
+Tennessee,Perry,444.5,TN
+Arkansas,Pulaski,444.5,AR
+Missouri,Taney,444.5,MO
+Ohio,Auglaize,444.4,OH
+Minnesota,Roseau,444.4,MN
+Minnesota,Benton,444.3,MN
+Nebraska,Red Willow,444.1,NE
+Texas,San Patricio,444.1,TX
+Maryland,Frederick,444.0,MD
+Virginia,Alleghany and Clifton Forge City,444.0,VA
+New Jersey,Middlesex,443.8,NJ
+West Virginia,Calhoun,443.6,WV
+Missouri,Putnam,443.5,MO
+Nebraska,Perkins,443.5,NE
+California,Marin,443.4,CA
+Iowa,Dallas,443.4,IA
+Texas,Navarro,443.4,TX
+North Dakota,Emmons,443.4,ND
+Texas,Randall,443.4,TX
+Florida,Hamilton,443.3,FL
+Virginia,Chesterfield,443.2,VA
+Wisconsin,Forest,443.2,WI
+Mississippi,Lincoln,443.2,MS
+Florida,Lee,443.2,FL
+Georgia,Webster,443.0,GA
+Wisconsin,Portage,443.0,WI
+Ohio,Putnam,443.0,OH
+Mississippi,Benton,442.6,MS
+Alabama,Baldwin,442.5,AL
+Wisconsin,Florence,442.5,WI
+South Dakota,Brookings,442.5,SD
+Montana,Sanders,442.5,MT
+Arkansas,Johnson,442.5,AR
+Missouri,Cass,442.4,MO
+Florida,Gulf,442.4,FL
+Georgia,Taliaferro,442.4,GA
+Vermont,Windsor,442.3,VT
+South Dakota,Brule,442.3,SD
+Illinois,Boone,442.1,IL
+Virginia,Richmond,442.1,VA
+Texas,Oldham,442.1,TX
+Tennessee,Unicoi,442.1,TN
+Texas,Lubbock,442.0,TX
+Georgia,DeKalb,442.0,GA
+Virginia,Buckingham,441.9,VA
+Tennessee,Morgan,441.9,TN
+Nebraska,Holt,441.9,NE
+Iowa,Kossuth,441.8,IA
+Alabama,St. Clair,441.7,AL
+Texas,Archer,441.6,TX
+Michigan,Chippewa,441.6,MI
+Pennsylvania,Montgomery,441.6,PA
+Wisconsin,Kewaunee,441.6,WI
+North Carolina,Wilkes,441.6,NC
+Utah,Tooele,441.4,UT
+Washington,King,441.4,WA
+Missouri,Barry,441.4,MO
+North Carolina,Hyde,441.4,NC
+Texas,Bee,441.3,TX
+North Dakota,Walsh,441.2,ND
+North Carolina,Hertford,441.0,NC
+Illinois,Clark,440.9,IL
+Texas,Eastland,440.9,TX
+Minnesota,Lac qui Parle,440.7,MN
+Texas,Kendall,440.7,TX
+Missouri,Cole,440.6,MO
+South Carolina,Marlboro,440.6,SC
+Texas,DeWitt,440.6,TX
+Oregon,Klamath,440.5,OR
+Virginia,Roanoke,440.5,VA
+California,Humboldt,440.5,CA
+Michigan,Newaygo,440.5,MI
+Oklahoma,Marshall,440.4,OK
+New York,Sullivan,440.3,NY
+Idaho,Idaho,440.1,ID
+Missouri,Webster,440.1,MO
+Wisconsin,Sauk,440.1,WI
+North Carolina,Macon,440.0,NC
+Nebraska,Butler,439.8,NE
+Minnesota,Stevens,439.8,MN
+Nevada,Churchill,439.7,NV
+Wisconsin,Outagamie,439.6,WI
+Rhode Island,Providence,439.5,RI
+Virginia,Surry,439.4,VA
+Georgia,Bleckley,439.4,GA
+Oregon,Clackamas,439.4,OR
+South Carolina,Charleston,439.1,SC
+Maryland,Charles,439.1,MD
+New Jersey,Essex,439.0,NJ
+Ohio,Shelby,439.0,OH
+South Dakota,Moody,438.9,SD
+Vermont,Windham,438.9,VT
+Texas,Jim Wells,438.9,TX
+Michigan,Mecosta,438.9,MI
+South Dakota,Turner,438.9,SD
+West Virginia,Doddridge,438.8,WV
+Iowa,Audubon,438.8,IA
+Ohio,Mahoning,438.8,OH
+Missouri,Clinton,438.8,MO
+South Dakota,Yankton,438.7,SD
+Ohio,Henry,438.5,OH
+Tennessee,Shelby,438.2,TN
+Texas,Tarrant,438.2,TX
+Mississippi,Neshoba,438.2,MS
+Texas,Blanco,438.2,TX
+Mississippi,Amite,438.2,MS
+Tennessee,Williamson,438.0,TN
+Virginia,Bland,438.0,VA
+Tennessee,Bradley,437.9,TN
+Nebraska,Scotts Bluff,437.9,NE
+Virginia,Grayson,437.9,VA
+Florida,Calhoun,437.8,FL
+Georgia,Walker,437.7,GA
+Mississippi,Wayne,437.7,MS
+Pennsylvania,Forest,437.7,PA
+Tennessee,Giles,437.7,TN
+Virginia,Powhatan,437.6,VA
+Texas,Colorado,437.6,TX
+Nevada,Mineral,437.5,NV
+Georgia,Clarke,437.3,GA
+Pennsylvania,Lebanon,437.2,PA
+Illinois,Rock Island,437.2,IL
+Texas,Hockley,437.1,TX
+Texas,Hays,437.0,TX
+Pennsylvania,Huntingdon,436.8,PA
+Texas,Falls,436.6,TX
+Illinois,Edwards,436.6,IL
+Ohio,Mercer,436.5,OH
+Michigan,Calhoun,436.5,MI
+Montana,Missoula,436.4,MT
+Massachusetts,Hampden,436.4,MA
+Tennessee,Madison,436.2,TN
+Missouri,Polk,436.1,MO
+California,Placer,436.1,CA
+Montana,Sweet Grass,435.9,MT
+Alabama,Chambers,435.9,AL
+Georgia,Chatham,435.8,GA
+Minnesota,Todd,435.8,MN
+Georgia,Tattnall,435.7,GA
+Ohio,Fulton,435.7,OH
+Kentucky,Crittenden,435.7,KY
+Georgia,Columbia,435.7,GA
+Vermont,Lamoille,435.7,VT
+Oklahoma,Hughes,435.6,OK
+Oklahoma,Carter,435.6,OK
+California,Sonoma,435.6,CA
+Oklahoma,Bryan,435.6,OK
+Alabama,Perry,435.5,AL
+Michigan,Berrien,435.5,MI
+Mississippi,Warren,435.2,MS
+Montana,Carbon,435.0,MT
+Arkansas,Montgomery,434.9,AR
+Missouri,Newton,434.9,MO
+Nebraska,Fillmore,434.9,NE
+South Carolina,Kershaw,434.9,SC
+Oklahoma,Tillman,434.9,OK
+Missouri,Stone,434.8,MO
+Wisconsin,Chippewa,434.8,WI
+Ohio,Wayne,434.7,OH
+Oklahoma,Coal,434.6,OK
+New Mexico,Torrance,434.5,NM
+North Dakota,Traill,434.5,ND
+Maine,Lincoln,434.5,ME
+California,Ventura,434.4,CA
+Alabama,Mobile,434.4,AL
+Oregon,Yamhill,434.4,OR
+Missouri,Christian,434.3,MO
+Mississippi,Winston,434.3,MS
+Alabama,Colbert,434.3,AL
+Alabama,Bullock,434.2,AL
+Alabama,Jefferson,434.2,AL
+West Virginia,Grant,434.1,WV
+South Carolina,Lexington,434.1,SC
+Oklahoma,Beckham,434.1,OK
+Mississippi,Leake,434.1,MS
+Utah,Washington,433.9,UT
+Texas,Bastrop,433.9,TX
+Oregon,Jackson,433.8,OR
+Tennessee,Jackson,433.8,TN
+Illinois,Stephenson,433.7,IL
+Oregon,Wheeler,433.6,OR
+Florida,Okaloosa,433.6,FL
+Idaho,Jefferson,433.6,ID
+Massachusetts,Essex,433.6,MA
+Georgia,Laurens,433.5,GA
+Wisconsin,Burnett,433.5,WI
+Nebraska,Keith,433.4,NE
+Vermont,Orange,433.2,VT
+Oklahoma,Garfield,433.1,OK
+Michigan,Isabella,433.0,MI
+Missouri,Clark,432.9,MO
+North Dakota,Stark,432.9,ND
+Virginia,Hanover,432.9,VA
+Nevada,Douglas,432.7,NV
+Mississippi,Claiborne,432.7,MS
+Wyoming,Crook,432.7,WY
+Texas,Mitchell,432.6,TX
+Arkansas,Carroll,432.6,AR
+North Dakota,Bowman,432.4,ND
+Nebraska,Boyd,432.4,NE
+Ohio,Logan,432.3,OH
+Texas,Anderson,432.2,TX
+Texas,Lee,432.2,TX
+Alabama,Dale,432.2,AL
+Texas,San Augustine,432.2,TX
+Wisconsin,Dodge,432.2,WI
+Illinois,Cook,432.1,IL
+Texas,Howard,432.1,TX
+South Dakota,Pennington,432.1,SD
+Alabama,Houston,432.0,AL
+Oklahoma,Oklahoma,432.0,OK
+Georgia,Montgomery,432.0,GA
+Mississippi,Rankin,431.9,MS
+Oklahoma,Osage,431.8,OK
+Ohio,Van Wert,431.8,OH
+Illinois,McLean,431.8,IL
+Nebraska,Hall,431.8,NE
+Idaho,Bingham,431.7,ID
+South Dakota,Mellette,431.7,SD
+Georgia,Schley,431.7,GA
+South Dakota,Beadle,431.7,SD
+South Carolina,Bamberg,431.6,SC
+Georgia,Bulloch,431.4,GA
+Idaho,Owyhee,431.4,ID
+Alabama,Randolph,431.4,AL
+Georgia,Decatur,431.4,GA
+Montana,Gallatin,431.4,MT
+North Carolina,Jackson,431.4,NC
+Pennsylvania,Indiana,431.3,PA
+South Carolina,Chesterfield,431.3,SC
+Alabama,Winston,431.3,AL
+Michigan,Shiawassee,431.3,MI
+Ohio,Hancock,431.2,OH
+Texas,Calhoun,431.2,TX
+Utah,Cache,431.1,UT
+Florida,Palm Beach,431.1,FL
+South Carolina,Darlington,431.1,SC
+Idaho,Jerome,430.8,ID
+Michigan,Van Buren,430.8,MI
+Michigan,Ingham,430.7,MI
+Arkansas,Chicot,430.7,AR
+Colorado,Pueblo,430.6,CO
+Texas,Callahan,430.6,TX
+Missouri,Jackson,430.5,MO
+Michigan,Tuscola,430.5,MI
+Missouri,Laclede,430.4,MO
+Texas,Bandera,430.3,TX
+Texas,Val Verde,430.3,TX
+South Dakota,Spink,430.2,SD
+Alabama,Macon,430.1,AL
+Ohio,Paulding,430.0,OH
+South Dakota,Grant,430.0,SD
+Montana,Ravalli,430.0,MT
+Pennsylvania,Cumberland,430.0,PA
+Wisconsin,Green,429.9,WI
+Virginia,Rockbridge,429.9,VA
+Texas,Robertson,429.9,TX
+Illinois,Jo Daviess,429.8,IL
+Oklahoma,Custer,429.8,OK
+Texas,Rockwall,429.7,TX
+Mississippi,Adams,429.7,MS
+North Carolina,Nash,429.6,NC
+Minnesota,Koochiching,429.5,MN
+Texas,Dallas,429.5,TX
+Pennsylvania,Clearfield,429.4,PA
+Georgia,Dade,429.4,GA
+Nebraska,Box Butte,429.4,NE
+Oklahoma,Canadian,429.1,OK
+Idaho,Valley,429.1,ID
+Georgia,Baker,429.0,GA
+Virginia,Page,428.9,VA
+Texas,Hansford,428.9,TX
+North Carolina,Watauga,428.8,NC
+Texas,Goliad,428.7,TX
+Florida,Collier,428.5,FL
+Arkansas,Ashley,428.4,AR
+North Carolina,Transylvania,428.2,NC
+South Carolina,Sumter,428.1,SC
+Missouri,Ray,428.1,MO
+Idaho,Oneida,428.0,ID
+Utah,Davis,428.0,UT
+Idaho,Twin Falls,427.8,ID
+Texas,Duval,427.8,TX
+North Carolina,Chowan,427.7,NC
+Alabama,Monroe,427.7,AL
+Tennessee,Lake,427.5,TN
+Georgia,Randolph,427.5,GA
+South Dakota,Edmunds,427.3,SD
+Oklahoma,Wagoner,427.3,OK
+Oregon,Hood River,427.3,OR
+New York,New York,427.3,NY
+Texas,Gray,427.3,TX
+Pennsylvania,Chester,427.2,PA
+North Carolina,Perquimans,427.1,NC
+California,Amador,427.1,CA
+Georgia,Crisp,427.0,GA
+South Carolina,Newberry,426.8,SC
+Wisconsin,Sawyer,426.8,WI
+Tennessee,Davidson,426.7,TN
+North Carolina,Dare,426.6,NC
+Mississippi,Choctaw,426.6,MS
+Missouri,Howard,426.2,MO
+California,San Diego,426.1,CA
+Alabama,Dallas,426.1,AL
+Georgia,Miller,426.0,GA
+Idaho,Nez Perce,426.0,ID
+Michigan,Montcalm,425.9,MI
+Georgia,Catoosa,425.9,GA
+Vermont,Essex,425.9,VT
+Ohio,Wyandot,425.9,OH
+Oregon,Wasco,425.7,OR
+Virginia,Campbell,425.7,VA
+Idaho,Bannock,425.6,ID
+South Carolina,Allendale,425.6,SC
+Virginia,Bedford City and,425.5,VA
+Virginia,Cumberland,425.5,VA
+Georgia,Grady,425.4,GA
+Iowa,Wright,425.4,IA
+Oklahoma,Atoka,425.4,OK
+Michigan,Huron,425.3,MI
+Nebraska,Kearney,425.3,NE
+Michigan,Presque Isle,425.2,MI
+Texas,Karnes,425.2,TX
+Nebraska,Grant,425.2,NE
+Montana,Dawson,425.2,MT
+North Dakota,Griggs,425.2,ND
+South Carolina,Horry,425.1,SC
+Nevada,Washoe,425.1,NV
+Texas,Dimmit,424.9,TX
+Ohio,Trumbull,424.9,OH
+Missouri,Dade,424.8,MO
+Wyoming,Weston,424.8,WY
+South Dakota,Butte,424.8,SD
+Illinois,Wayne,424.7,IL
+Mississippi,Lauderdale,424.7,MS
+Tennessee,Van Buren,424.7,TN
+Pennsylvania,Butler,424.7,PA
+South Dakota,Deuel,424.6,SD
+West Virginia,Hampshire,424.6,WV
+South Dakota,Lyman,424.6,SD
+Montana,Meagher,424.6,MT
+Alabama,Jackson,424.4,AL
+Texas,Jones,424.4,TX
+North Dakota,Sioux,424.2,ND
+Arkansas,Stone,424.2,AR
+Colorado,Larimer,424.2,CO
+Nebraska,Pierce,424.1,NE
+Michigan,Antrim,424.0,MI
+California,El Dorado,423.8,CA
+Missouri,Greene,423.8,MO
+Alabama,Marshall,423.8,AL
+Alabama,Cleburne,423.6,AL
+California,Stanislaus,423.6,CA
+North Carolina,Ashe,423.6,NC
+Texas,Cottle,423.5,TX
+Michigan,Missaukee,423.5,MI
+Texas,Stephens,423.5,TX
+Mississippi,Kemper,423.4,MS
+Missouri,Camden,423.3,MO
+Alabama,Limestone,423.3,AL
+Wisconsin,Polk,423.3,WI
+Vermont,Addison,423.2,VT
+Alabama,Marion,423.2,AL
+South Carolina,Williamsburg,423.1,SC
+Idaho,Blaine,423.1,ID
+South Carolina,Abbeville,423.0,SC
+Texas,Wharton,422.9,TX
+Oklahoma,Logan,422.7,OK
+North Carolina,Graham,422.7,NC
+Alabama,Chilton,422.7,AL
+Nebraska,Knox,422.7,NE
+Idaho,Latah,422.6,ID
+Michigan,Washtenaw,422.6,MI
+Missouri,McDonald,422.6,MO
+Florida,Broward,422.5,FL
+Virginia,Stafford,422.4,VA
+Florida,Orange,422.3,FL
+Oregon,Polk,422.3,OR
+Illinois,Pope,422.3,IL
+Alabama,Fayette,422.2,AL
+Arkansas,Pike,422.2,AR
+Georgia,Oconee,422.1,GA
+Texas,Kleberg,421.9,TX
+Alabama,Franklin,421.9,AL
+Michigan,Emmet,421.9,MI
+Wyoming,Albany,421.9,WY
+Texas,Denton,421.8,TX
+Iowa,Hamilton,421.8,IA
+Utah,Weber,421.7,UT
+Nebraska,Brown,421.7,NE
+Florida,Miami-Dade,421.7,FL
+Oregon,Lake,421.7,OR
+Illinois,Henderson,421.7,IL
+Mississippi,Franklin,421.6,MS
+Illinois,White,421.6,IL
+Colorado,Mesa,421.5,CO
+Alabama,Cherokee,421.5,AL
+Iowa,Allamakee,421.2,IA
+California,Tuolumne,421.2,CA
+Texas,Wilson,421.2,TX
+Idaho,Teton,421.1,ID
+Minnesota,Swift,421.1,MN
+Idaho,Benewah,421.0,ID
+Texas,Montgomery,420.9,TX
+Michigan,Livingston,420.9,MI
+South Carolina,Berkeley,420.8,SC
+Michigan,Hillsdale,420.7,MI
+Nebraska,Lancaster,420.7,NE
+Texas,Jefferson,420.6,TX
+Wyoming,Natrona,420.4,WY
+Texas,Houston,420.4,TX
+Idaho,Minidoka,420.4,ID
+Missouri,Pemiscot,420.4,MO
+Pennsylvania,Clarion,420.2,PA
+Texas,Washington,420.1,TX
+Massachusetts,Nantucket,419.9,MA
+Rhode Island,Newport,419.7,RI
+California,Lake,419.7,CA
+Texas,Atascosa,419.6,TX
+Montana,Cascade,419.6,MT
+Alabama,Coffee,419.5,AL
+Missouri,Ralls,419.4,MO
+Missouri,Knox,419.3,MO
+Utah,Iron,419.2,UT
+Nebraska,Johnson,419.2,NE
+South Dakota,Bon Homme,419.1,SD
+Texas,Travis,419.0,TX
+Virginia,Greene,419.0,VA
+Texas,Carson,418.9,TX
+South Carolina,Hampton,418.6,SC
+Nebraska,Garden,418.5,NE
+Oregon,Coos,418.3,OR
+South Dakota,Walworth,418.3,SD
+Georgia,Irwin,418.2,GA
+Nebraska,Frontier,418.2,NE
+Montana,Madison,417.9,MT
+California,Solano,417.6,CA
+Arkansas,Miller,417.6,AR
+Arkansas,Benton,417.5,AR
+Georgia,Dodge,417.5,GA
+Michigan,Delta,417.5,MI
+Ohio,Williams,417.4,OH
+Montana,Deer Lodge,417.3,MT
+Michigan,Mason,417.2,MI
+Pennsylvania,Centre,417.2,PA
+Texas,Madison,417.2,TX
+Idaho,Lemhi,417.1,ID
+Virginia,Halifax with South Boston City,417.1,VA
+Wisconsin,Calumet,417.1,WI
+Texas,Glasscock,417.0,TX
+Texas,Llano,416.9,TX
+Idaho,Gooding,416.6,ID
+Arkansas,Lincoln,416.5,AR
+New York,Bronx,416.3,NY
+California,Napa,416.2,CA
+Wyoming,Platte,416.2,WY
+Michigan,Clinton,416.1,MI
+California,Calaveras,416.0,CA
+Texas,Cochran,416.0,TX
+South Dakota,Fall River,416.0,SD
+Oregon,Washington,416.0,OR
+Georgia,Candler,415.8,GA
+Texas,Wilbarger,415.7,TX
+Nebraska,Chase,415.5,NE
+Missouri,Lawrence,415.5,MO
+New Mexico,DeBaca,415.5,NM
+Nebraska,Rock,415.4,NE
+Michigan,Osceola,415.3,MI
+California,Sutter,415.3,CA
+Wisconsin,Iowa,415.2,WI
+Pennsylvania,McKean,415.2,PA
+Texas,Shelby,415.1,TX
+Oklahoma,Greer,415.1,OK
+Maryland,Howard,415.0,MD
+Texas,Dallam,415.0,TX
+Virginia,Shenandoah,414.9,VA
+Washington,Yakima,414.8,WA
+Wisconsin,Bayfield,414.7,WI
+Georgia,Dooly,414.6,GA
+Hawaii,Maui,414.5,HI
+Oregon,Deschutes,414.5,OR
+Michigan,Luce,414.4,MI
+Tennessee,Hardin,414.4,TN
+Michigan,Kalamazoo,414.3,MI
+Oklahoma,Delaware,414.2,OK
+Massachusetts,Middlesex,414.0,MA
+Wyoming,Carbon,413.9,WY
+Nebraska,Dundy,413.9,NE
+California,Yolo,413.8,CA
+Idaho,Madison,413.8,ID
+Virginia,James City,413.7,VA
+New York,Kings,413.6,NY
+Georgia,Marion,413.6,GA
+Missouri,Cedar,413.6,MO
+Colorado,Chaffee,413.5,CO
+Tennessee,Carter,413.5,TN
+Missouri,Texas,413.5,MO
+New Mexico,Dona Ana,413.4,NM
+Texas,Crosby,413.3,TX
+Nebraska,Phelps,413.0,NE
+Pennsylvania,Westmoreland,412.9,PA
+Texas,Jackson,412.9,TX
+Washington,Grant,412.8,WA
+Virginia,Nelson,412.7,VA
+Arkansas,Newton,412.7,AR
+Utah,Wayne,412.6,UT
+Texas,Fayette,412.6,TX
+Oklahoma,Cleveland,412.5,OK
+Oregon,Linn,412.5,OR
+Utah,Morgan,412.3,UT
+Arkansas,Prairie,412.2,AR
+Hawaii,Hawaii,412.1,HI
+Virginia,Carroll,412.0,VA
+Mississippi,George,412.0,MS
+Washington,Benton,412.0,WA
+Arkansas,Marion,411.9,AR
+Texas,Maverick,411.5,TX
+North Dakota,Wells,411.5,ND
+Idaho,Franklin,411.4,ID
+Alabama,Lauderdale,411.4,AL
+South Carolina,Lee,411.4,SC
+Colorado,Weld,411.3,CO
+New York,Essex,411.2,NY
+Virginia,Pulaski,410.9,VA
+Kentucky,Union,410.8,KY
+Montana,Fergus,410.7,MT
+Massachusetts,Franklin,410.7,MA
+Michigan,Otsego,410.7,MI
+Georgia,Quitman,410.6,GA
+Virginia,York,410.5,VA
+Idaho,Boise,410.5,ID
+South Carolina,Fairfield,410.3,SC
+Pennsylvania,Wayne,410.3,PA
+Nebraska,Cherry,410.1,NE
+Alabama,Blount,410.1,AL
+Georgia,Telfair,410.0,GA
+Georgia,Jeff Davis,409.6,GA
+California,Contra Costa,409.6,CA
+Michigan,Kent,409.3,MI
+Wyoming,Teton,409.3,WY
+Texas,Comal,409.2,TX
+Idaho,Cassia,409.2,ID
+Texas,Irion,409.2,TX
+Texas,Refugio,409.0,TX
+Virginia,Highland,408.8,VA
+Wisconsin,Taylor,408.7,WI
+Minnesota,Cook,408.6,MN
+Colorado,Lincoln,408.5,CO
+Florida,Glades,408.4,FL
+Texas,Collin,408.2,TX
+Nebraska,Colfax,408.2,NE
+Texas,Medina,408.2,TX
+Texas,Bexar,408.2,TX
+South Carolina,Richland,408.1,SC
+Virginia,Henry,407.8,VA
+California,Orange,407.8,CA
+Hawaii,Honolulu,407.8,HI
+Texas,Guadalupe,407.7,TX
+Michigan,Ionia,407.6,MI
+Arkansas,Nevada,407.5,AR
+Missouri,Hickory,407.4,MO
+Arkansas,Perry,407.4,AR
+Utah,Sevier,407.3,UT
+Wisconsin,Buffalo,407.3,WI
+Utah,Wasatch,407.2,UT
+Wyoming,Converse,407.2,WY
+Montana,Sheridan,407.1,MT
+Mississippi,Lafayette,407.1,MS
+Georgia,Charlton,407.0,GA
+South Carolina,Lancaster,407.0,SC
+California,Sacramento,406.9,CA
+Massachusetts,Hampshire,406.8,MA
+Arizona,Yavapai,406.8,AZ
+Texas,Brazos,406.8,TX
+Virginia,Warren,406.7,VA
+Alabama,Cullman,406.7,AL
+Alabama,Geneva,406.7,AL
+Missouri,Adair,406.6,MO
+Arkansas,Little River,406.5,AR
+Texas,Childress,406.4,TX
+Arizona,La Paz,406.4,AZ
+Utah,Box Elder,406.4,UT
+Missouri,Nodaway,406.3,MO
+Texas,La Salle,406.3,TX
+New Mexico,Sandoval,406.3,NM
+Georgia,Atkinson,406.2,GA
+Michigan,Cheboygan,406.1,MI
+Michigan,Barry,406.0,MI
+Missouri,Bates,405.7,MO
+Massachusetts,Suffolk,405.5,MA
+Alabama,Madison,405.5,AL
+Iowa,Buena Vista,405.4,IA
+Utah,Salt Lake,405.3,UT
+Oklahoma,Jackson,405.3,OK
+Idaho,Lincoln,405.2,ID
+Arizona,Mohave,405.2,AZ
+Texas,Caldwell,404.9,TX
+California,Mendocino,404.7,CA
+Virginia,Northumberland,404.4,VA
+Texas,Upton,404.2,TX
+Colorado,Denver,404.1,CO
+Texas,Harris,404.0,TX
+Mississippi,Oktibbeha,403.9,MS
+Arkansas,Polk,403.9,AR
+Wyoming,Big Horn,403.8,WY
+Texas,Scurry,403.7,TX
+Montana,Wibaux,403.7,MT
+Maryland,Garrett,403.6,MD
+Nebraska,Sherman,403.4,NE
+Virginia,Patrick,403.3,VA
+Massachusetts,Dukes,403.3,MA
+Florida,Franklin,403.2,FL
+Texas,Comanche,403.1,TX
+Georgia,Taylor,403.0,GA
+Tennessee,Johnson,402.9,TN
+California,Mariposa,402.9,CA
+Georgia,Long,402.9,GA
+Ohio,Darke,402.8,OH
+Virginia,Rockingham,402.8,VA
+Pennsylvania,Franklin,402.7,PA
+Colorado,Adams,402.7,CO
+North Carolina,Pasquotank,402.6,NC
+California,Kern,402.5,CA
+Wyoming,Sheridan,402.5,WY
+Virginia,Madison,402.3,VA
+Missouri,Daviess,402.0,MO
+Nebraska,Keya Paha,401.9,NE
+Colorado,Jefferson,401.9,CO
+Texas,Live Oak,401.8,TX
+Texas,Austin,401.8,TX
+Texas,Mills,401.7,TX
+California,Nevada,400.9,CA
+New Mexico,Otero,400.5,NM
+Nebraska,Hayes,400.4,NE
+North Dakota,Grant,400.4,ND
+Arkansas,Columbia,400.4,AR
+Wisconsin,Eau Claire,400.4,WI
+Washington,Wahkiakum,400.1,WA
+Oregon,Union,400.1,OR
+Texas,Shackelford,400.1,TX
+Michigan,Iron,400.0,MI
+Tennessee,Moore,400.0,TN
+Texas,Kinney,400.0,TX
+Michigan,Branch,399.8,MI
+Michigan,St. Joseph,399.5,MI
+Missouri,Carroll,399.4,MO
+North Dakota,Cavalier,399.4,ND
+Washington,Franklin,399.4,WA
+Texas,Hall,399.3,TX
+Wisconsin,Richland,399.2,WI
+New York,Queens,399.2,NY
+Wyoming,Sweetwater,399.1,WY
+Oregon,Jefferson,399.0,OR
+California,San Mateo,398.8,CA
+Wisconsin,St. Croix,398.8,WI
+Missouri,Schuyler,398.8,MO
+South Dakota,Tripp,398.7,SD
+Colorado,Douglas,398.6,CO
+California,San Bernardino,398.6,CA
+Colorado,Routt,398.5,CO
+Michigan,Cass,398.5,MI
+Oregon,Douglas,398.2,OR
+Tennessee,Pickett,398.1,TN
+Kentucky,Elliott,398.0,KY
+Arizona,Pima,397.9,AZ
+New Mexico,Sierra,397.9,NM
+Texas,Floyd,397.8,TX
+California,Riverside,397.8,CA
+Washington,Pacific,397.7,WA
+South Carolina,Calhoun,397.6,SC
+South Carolina,Barnwell,397.0,SC
+South Dakota,Bennett,397.0,SD
+Iowa,Adair,396.9,IA
+California,San Benito,396.9,CA
+Texas,Brooks,396.5,TX
+Missouri,Atchison,396.5,MO
+Idaho,Adams,396.4,ID
+Texas,Mason,396.4,TX
+Virginia,Frederick,396.2,VA
+California,San Joaquin,396.2,CA
+Michigan,Genesee,396.2,MI
+Colorado,Otero,396.0,CO
+Texas,Ward,395.8,TX
+Montana,Mineral,395.6,MT
+Oregon,Tillamook,395.3,OR
+Arizona,Maricopa,395.2,AZ
+New Mexico,Valencia,395.0,NM
+Alabama,Covington,394.7,AL
+Texas,Midland,394.6,TX
+Texas,Fort Bend,394.6,TX
+Washington,Lewis,394.6,WA
+Arkansas,Howard,394.5,AR
+Alabama,Shelby,394.4,AL
+Missouri,Platte,394.3,MO
+Oregon,Morrow,394.3,OR
+Maryland,Montgomery,394.2,MD
+Arkansas,Izard,394.1,AR
+California,Madera,393.9,CA
+Georgia,Jenkins,393.9,GA
+Arizona,Cochise,393.9,AZ
+Nebraska,Dawson,393.8,NE
+Georgia,Wilcox,393.2,GA
+Alabama,Escambia,393.2,AL
+Oklahoma,Cotton,393.2,OK
+Colorado,Arapahoe,393.1,CO
+Texas,Nacogdoches,393.1,TX
+Utah,Utah,393.0,UT
+Utah,Millard,392.9,UT
+Mississippi,Greene,392.7,MS
+Nebraska,Wayne,392.5,NE
+Arkansas,Madison,392.4,AR
+Texas,Erath,392.2,TX
+Arkansas,Washington,391.8,AR
+North Dakota,McIntosh,391.8,ND
+South Dakota,Sully,391.6,SD
+Texas,Motley,391.4,TX
+Colorado,Broomfield,391.3,CO
+Colorado,Huerfano,391.3,CO
+Maryland,Prince Georges,391.2,MD
+Missouri,Vernon,391.2,MO
+Colorado,Garfield,391.1,CO
+Alabama,Tuscaloosa,391.0,AL
+Nebraska,Dakota,390.8,NE
+Colorado,Delta,390.8,CO
+South Dakota,Hanson,390.8,SD
+Washington,Kittitas,390.7,WA
+North Dakota,LaMoure,390.6,ND
+Texas,Terry,390.6,TX
+Colorado,Boulder,390.5,CO
+Montana,Granite,390.3,MT
+Pennsylvania,Fulton,390.3,PA
+Missouri,Caldwell,390.2,MO
+California,Fresno,390.1,CA
+Michigan,Mackinac,390.0,MI
+Arizona,Pinal,389.8,AZ
+Washington,Cowlitz,389.4,WA
+Oregon,Curry,389.4,OR
+Colorado,El Paso,389.4,CO
+Texas,Starr,389.4,TX
+Virginia,Albemarle,389.2,VA
+Washington,Columbia,388.8,WA
+Florida,Walton,388.7,FL
+Michigan,Allegan,388.7,MI
+Washington,Walla Walla,388.2,WA
+Alabama,Coosa,388.1,AL
+Montana,Toole,387.8,MT
+Oklahoma,Harmon,387.7,OK
+Texas,Lamb,387.6,TX
+South Carolina,Aiken,387.6,SC
+Oregon,Lincoln,387.6,OR
+Texas,El Paso,387.5,TX
+Nebraska,Pawnee,387.4,NE
+Colorado,Teller,387.2,CO
+Oklahoma,Ellis,387.1,OK
+Washington,Klickitat,387.0,WA
+Missouri,DeKalb,387.0,MO
+Florida,Jefferson,386.9,FL
+Michigan,Lenawee,386.9,MI
+Colorado,Montrose,386.9,CO
+Colorado,Fremont,386.8,CO
+Wyoming,Fremont,386.7,WY
+Utah,Garfield,386.6,UT
+Wyoming,Campbell,386.6,WY
+North Dakota,Burke,386.2,ND
+Montana,Park,386.2,MT
+Utah,Sanpete,386.2,UT
+Texas,Moore,386.1,TX
+Oregon,Wallowa,385.9,OR
+Illinois,Hamilton,385.7,IL
+Florida,Monroe,385.7,FL
+New Mexico,Bernalillo,385.2,NM
+Texas,Donley,385.0,TX
+Idaho,Power,384.7,ID
+California,San Francisco,384.5,CA
+Michigan,Marquette,384.5,MI
+South Dakota,Meade,384.3,SD
+Oregon,Umatilla,384.3,OR
+Texas,Deaf Smith,384.3,TX
+Alabama,Choctaw,384.3,AL
+Texas,Andrews,384.2,TX
+Colorado,Baca,384.2,CO
+Oklahoma,Major,384.1,OK
+California,Santa Clara,384.0,CA
+Texas,Nueces,383.6,TX
+Idaho,Bear Lake,383.3,ID
+Virginia,Accomack,383.2,VA
+Wisconsin,Dunn,383.1,WI
+Virginia,Montgomery,383.0,VA
+Nevada,Nye,382.8,NV
+South Dakota,Custer,382.6,SD
+Missouri,Sullivan,382.5,MO
+Texas,Frio,382.3,TX
+Colorado,Elbert,381.9,CO
+Idaho,Custer,381.8,ID
+North Dakota,Towner,381.6,ND
+Arizona,Yuma,381.6,AZ
+Nebraska,Deuel,381.4,NE
+Texas,Hale,381.3,TX
+Colorado,Moffat,381.1,CO
+South Dakota,Lawrence,380.0,SD
+North Dakota,Golden Valley,379.6,ND
+Oklahoma,Beaver,379.6,OK
+Texas,San Saba,379.5,TX
+New Mexico,Los Alamos,379.1,NM
+Michigan,Alger,379.0,MI
+California,Merced,378.9,CA
+Arkansas,Hempstead,378.8,AR
+New Jersey,Hudson,378.8,NJ
+Washington,Clark,378.5,WA
+Idaho,Fremont,378.2,ID
+North Dakota,Kidder,378.1,ND
+Oklahoma,Love,377.9,OK
+Montana,Judith Basin,377.7,MT
+Texas,Hemphill,377.4,TX
+Utah,Grand,377.3,UT
+Virginia,Appomattox,377.2,VA
+Texas,Hartley,376.7,TX
+Oklahoma,Texas,376.7,OK
+Arkansas,Sevier,376.6,AR
+Nebraska,Seward,376.2,NE
+North Dakota,Ransom,375.6,ND
+Michigan,Charlevoix,375.3,MI
+Colorado,Ouray,375.1,CO
+Virginia,Fauquier,375.0,VA
+Michigan,Menominee,374.9,MI
+Texas,Reeves,374.4,TX
+Wyoming,Lincoln,374.3,WY
+Nevada,Storey,374.1,NV
+South Carolina,Saluda,373.9,SC
+Nebraska,Morrill,373.9,NE
+California,Monterey,373.8,CA
+California,Colusa,373.6,CA
+Virginia,Pittsylvania,373.4,VA
+Virginia,Smyth,373.4,VA
+Ohio,Noble,373.4,OH
+Oklahoma,Murray,373.2,OK
+Michigan,Ottawa,372.9,MI
+Colorado,La Plata,372.7,CO
+Texas,Jack,372.4,TX
+South Carolina,Beaufort,372.1,SC
+Hawaii,Kauai,372.1,HI
+Nevada,Clark,372.0,NV
+Washington,Spokane,372.0,WA
+Colorado,Phillips,371.7,CO
+California,Alameda,371.6,CA
+Wyoming,Hot Springs,371.4,WY
+Wisconsin,Pepin,371.1,WI
+Texas,Lipscomb,370.9,TX
+Texas,Roberts,370.7,TX
+Texas,Jim Hogg,370.6,TX
+New Mexico,Socorro,370.5,NM
+Montana,Beaverhead,370.3,MT
+Arizona,Navajo,370.0,AZ
+Texas,Crane,369.9,TX
+Texas,Garza,369.5,TX
+Alabama,DeKalb,369.3,AL
+Utah,Uintah,369.2,UT
+Texas,Terrell,369.2,TX
+California,Los Angeles,369.1,CA
+North Dakota,Pierce,369.1,ND
+Montana,Powder River,369.0,MT
+Nevada,Eureka,368.7,NV
+Nebraska,Sheridan,368.6,NE
+Virginia,Loudoun,368.6,VA
+Utah,Emery,368.5,UT
+Alabama,Russell,368.3,AL
+New Mexico,Luna,367.4,NM
+Virginia,Dickenson,367.3,VA
+Missouri,Douglas,366.2,MO
+New Mexico,Curry,365.9,NM
+Texas,Zapata,365.7,TX
+Arizona,Greenlee,365.0,AZ
+California,Kings,364.6,CA
+Oklahoma,Woodward,364.6,OK
+Texas,Cameron,364.6,TX
+North Carolina,Alleghany,364.5,NC
+Florida,Madison,364.0,FL
+New Mexico,Quay,363.9,NM
+California,Imperial,363.7,CA
+Missouri,Maries,363.4,MO
+Colorado,Las Animas,362.2,CO
+Oregon,Grant,362.1,OR
+California,Tulare,361.7,CA
+Texas,Hidalgo,361.7,TX
+Colorado,Rio Blanco,361.5,CO
+Texas,Pecos,360.2,TX
+New Mexico,Eddy,360.1,NM
+California,Plumas,360.1,CA
+North Carolina,Camden,359.6,NC
+Michigan,Monroe,359.6,MI
+South Dakota,Roberts,359.5,SD
+Washington,Adams,359.4,WA
+North Dakota,Divide,358.1,ND
+Texas,Menard,357.7,TX
+New Mexico,Cibola,357.6,NM
+North Dakota,Stutsman,357.4,ND
+California,Siskiyou,357.4,CA
+Texas,Winkler,357.0,TX
+North Dakota,Williams,356.8,ND
+Virginia,Wise,356.2,VA
+West Virginia,Hardy,356.2,WV
+Montana,Chouteau,356.0,MT
+Nebraska,Gosper,355.9,NE
+New Mexico,Lea,355.7,NM
+New Mexico,Santa Fe,355.6,NM
+Colorado,Morgan,355.6,CO
+Wyoming,Sublette,355.3,WY
+Michigan,Schoolcraft,355.3,MI
+Wyoming,Johnson,355.0,WY
+Montana,Richland,354.9,MT
+Texas,Webb,354.7,TX
+Washington,Lincoln,354.1,WA
+Florida,Washington,353.0,FL
+Wisconsin,Pierce,352.9,WI
+Montana,Blaine,352.7,MT
+Colorado,Sedgwick,352.1,CO
+New Mexico,Union,351.9,NM
+Nebraska,Cheyenne,351.2,NE
+South Carolina,Edgefield,350.7,SC
+Utah,Rich,350.7,UT
+Washington,Pend Oreille,350.5,WA
+Oregon,Malheur,350.4,OR
+Virginia,Prince William,350.2,VA
+Virginia,Clarke,350.0,VA
+North Dakota,Dickey,349.6,ND
+Colorado,Park,349.1,CO
+Wyoming,Uinta,349.0,WY
+Washington,Garfield,349.0,WA
+Utah,Piute,348.8,UT
+West Virginia,Pendleton,348.4,WV
+Colorado,Washington,348.2,CO
+Michigan,Dickinson,348.0,MI
+North Dakota,Steele,347.1,ND
+Nevada,Humboldt,346.6,NV
+Texas,Bailey,346.2,TX
+Tennessee,Lincoln,345.4,TN
+California,Inyo,345.4,CA
+Utah,San Juan,345.0,UT
+South Carolina,Jasper,344.4,SC
+Virginia,Tazewell,344.2,VA
+Washington,Stevens,343.7,WA
+Georgia,Seminole,343.6,GA
+Alabama,Lee,343.6,AL
+Wyoming,Washakie,343.4,WY
+Colorado,Dolores,343.2,CO
+Texas,Kent,342.9,TX
+Idaho,Camas,342.9,ID
+California,Del Norte,342.4,CA
+Colorado,Rio Grande,341.3,CO
+New Mexico,Chaves,341.3,NM
+New Mexico,Guadalupe,341.0,NM
+South Dakota,Marshall,340.6,SD
+Washington,Skamania,340.5,WA
+Michigan,Ontonagon,340.3,MI
+Wyoming,Goshen,340.2,WY
+Ohio,Holmes,340.0,OH
+North Dakota,McKenzie,339.8,ND
+Oregon,Harney,339.2,OR
+Texas,Castro,338.6,TX
+Michigan,Baraga,337.8,MI
+Colorado,Alamosa,337.3,CO
+Virginia,Fairfax,337.1,VA
+Oregon,Benton,336.5,OR
+Idaho,Clark,336.3,ID
+Colorado,Gunnison,334.7,CO
+Nevada,Lincoln,334.5,NV
+Texas,Ochiltree,334.3,TX
+Texas,Gaines,334.0,TX
+Texas,Willacy,334.0,TX
+Colorado,Kit Carson,333.7,CO
+Colorado,San Miguel,333.3,CO
+Nevada,Elko,332.4,NV
+Texas,Culberson,332.0,TX
+California,Lassen,331.2,CA
+Colorado,Logan,331.1,CO
+Nebraska,Kimball,330.2,NE
+Virginia,Russell,329.9,VA
+Arizona,Coconino,329.4,AZ
+Arizona,Graham,328.9,AZ
+Colorado,Montezuma,328.6,CO
+Georgia,Wheeler,328.4,GA
+Arizona,Gila,327.9,AZ
+New Mexico,Lincoln,326.1,NM
+Michigan,Oceana,326.0,MI
+Nebraska,Wheeler,325.8,NE
+Texas,Parmer,325.3,TX
+South Dakota,Ziebach,324.8,SD
+Washington,Asotin,324.0,WA
+New Mexico,San Juan,323.8,NM
+Colorado,Custer,323.3,CO
+Oregon,Sherman,323.2,OR
+New Mexico,Catron,322.9,NM
+Oregon,Lane,322.6,OR
+New Mexico,Hidalgo,321.8,NM
+North Dakota,Dunn,320.8,ND
+Michigan,Gogebic,319.8,MI
+Arizona,Santa Cruz,319.5,AZ
+New Mexico,Roosevelt,319.5,NM
+New Mexico,Grant,318.8,NM
+North Carolina,Currituck,318.7,NC
+Virginia,Arlington,318.7,VA
+Florida,Jackson,318.6,FL
+New Mexico,Taos,318.2,NM
+New Mexico,San Miguel,318.1,NM
+Colorado,Costilla,317.9,CO
+Nebraska,Dawes,316.2,NE
+Michigan,Muskegon,315.1,MI
+Georgia,Clay,314.3,GA
+Colorado,Eagle,314.2,CO
+South Dakota,Perkins,312.1,SD
+Colorado,Archuleta,311.9,CO
+Virginia,Lee,311.7,VA
+Colorado,Lake,311.6,CO
+New Mexico,Mora,311.4,NM
+Virginia,Washington,311.0,VA
+Colorado,Yuma,309.5,CO
+New Mexico,McKinley,305.9,NM
+Virginia,Buchanan,305.5,VA
+Colorado,Bent,304.8,CO
+Nevada,Pershing,304.7,NV
+New Mexico,Rio Arriba,302.9,NM
+Arizona,Apache,301.3,AZ
+California,Trinity,300.4,CA
+Texas,Collingsworth,299.7,TX
+Montana,Garfield,299.3,MT
+Colorado,Crowley,298.6,CO
+Oregon,Baker,298.0,OR
+Washington,Ferry,298.0,WA
+Colorado,Grand,296.3,CO
+Michigan,Houghton,295.8,MI
+New Mexico,Colfax,295.5,NM
+Nevada,Lander,294.9,NV
+Colorado,Pitkin,294.5,CO
+North Carolina,Gates,293.7,NC
+North Dakota,Adams,293.6,ND
+Missouri,Scotland,293.6,MO
+Texas,Presidio,293.0,TX
+Texas,Sherman,292.9,TX
+Texas,Brewster,292.7,TX
+North Dakota,Logan,291.9,ND
+South Dakota,Harding,291.8,SD
+California,Mono,291.4,CA
+California,Modoc,290.7,CA
+South Dakota,Corson,289.4,SD
+Nebraska,Stanton,288.3,NE
+Montana,Daniels,287.7,MT
+Colorado,Summit,287.5,CO
+Colorado,Clear Creek,286.6,CO
+Nevada,White Pine,279.6,NV
+Colorado,Conejos,277.4,CO
+South Dakota,Campbell,274.1,SD
+Florida,Holmes,274.1,FL
+Nebraska,Hooker,273.1,NE
+Texas,Concho,272.6,TX
+Texas,Throckmorton,272.4,TX
+Wyoming,Niobrara,271.0,WY
+Colorado,Gilpin,268.9,CO
+California,Alpine,268.5,CA
+Washington,Whitman,262.9,WA
+Virginia,Scott,262.9,VA
+Colorado,Saguache,262.9,CO
+California,Sierra,259.6,CA
+Oklahoma,Cimarron,239.6,OK
+Nebraska,Sioux,228.6,NE
+Oregon,Gilliam,226.4,OR
+Michigan,Keweenaw,220.9,MI
+North Dakota,Oliver,219.0,ND
+Texas,Jeff Davis,208.0,TX
+Colorado,Mineral,207.4,CO
+Colorado,Hinsdale,182.3,CO
